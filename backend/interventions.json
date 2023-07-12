@@ -1,0 +1,5789 @@
+{
+    "Table 1": [
+        {
+            "cptCode": "85576",
+            "description": "85576 PLATELET FUNCTION SCREEN",
+            "price": "99.36"
+        },
+        {
+            "cptCode": "85002",
+            "description": "85002 BLEEDING TIME",
+            "price": "146.73"
+        },
+        {
+            "cptCode": "85379",
+            "description": "85379 D DIMER (QUANT)",
+            "price": "42.44"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 *ANTIPARIETAL CELL AB",
+            "price": "8.44"
+        },
+        {
+            "cptCode": "86384",
+            "description": "86384 *NBT REDUCTION",
+            "price": "89.16"
+        },
+        {
+            "cptCode": "85008",
+            "description": "85008 PERIPHERAL SMEAR REVIEW",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "85009",
+            "description": "85009 MANUAL DIFF BUFFY COAT",
+            "price": "38.16"
+        },
+        {
+            "cptCode": "82172",
+            "description": "82172 *APOLIPOPROTEIN",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *A2",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "82300",
+            "description": "82300 *CADMIUM",
+            "price": "59.22"
+        },
+        {
+            "cptCode": "80307",
+            "description": "80307*/G0481 DRUG SCR CHROMOTO",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83631",
+            "description": "83631 *FECAL LACTOFERRIN",
+            "price": "55.93"
+        },
+        {
+            "cptCode": "85025",
+            "description": "85025 CBC WITH AUTOMATED DIFF.",
+            "price": "85.87"
+        },
+        {
+            "cptCode": "85007",
+            "description": "85007 DIFFERENTIAL COUNT",
+            "price": "73.37"
+        },
+        {
+            "cptCode": "85652",
+            "description": "85652 ERYTH SEDIMENTATION RATE",
+            "price": "162.53"
+        },
+        {
+            "cptCode": "85670",
+            "description": "85670 THROMBIN TIME",
+            "price": "49.68"
+        },
+        {
+            "cptCode": "85048",
+            "description": "85048 EOSINOPHIL COUNT",
+            "price": "75.01"
+        },
+        {
+            "cptCode": "89051",
+            "description": "89051 FLUID ANALYSIS - CELL CT",
+            "price": "114.16"
+        },
+        {
+            "cptCode": "85009",
+            "description": "85009 WBC COUNT, BUFFY COUNT",
+            "price": "73.37"
+        },
+        {
+            "cptCode": "85384",
+            "description": "85384 FIBRINOGEN, QUANTITATIVE",
+            "price": "178.65"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790*CHIKUNGUNYA ABS",
+            "price": "34.55"
+        },
+        {
+            "cptCode": "85014",
+            "description": "85014 HCT (HEMATOCRIT)",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "85730",
+            "description": "85730 PTT",
+            "price": "86.86"
+        },
+        {
+            "cptCode": "82239",
+            "description": "82239*BILE ACIDS",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "85027",
+            "description": "85027 CBC WITHOUT DIFFERENTIAL",
+            "price": "85.87"
+        },
+        {
+            "cptCode": "81479",
+            "description": "81479 TREC (SCID)",
+            "price": "75.01"
+        },
+        {
+            "cptCode": "80321",
+            "description": "80321*PHOSPHATIDYLETHANOL",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "85610",
+            "description": "85610 PROTHROMBIN TIME  (PT)",
+            "price": "86.86"
+        },
+        {
+            "cptCode": "85018",
+            "description": "85018 HGB (HEMOGLOBIN)",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "84140",
+            "description": "84140*PREGNENOLONE",
+            "price": "43.43"
+        },
+        {
+            "cptCode": "87389",
+            "description": "87389 HIV 1&2 AB & AG W/P24",
+            "price": "26.65"
+        },
+        {
+            "cptCode": "87207",
+            "description": "87207 MALARIA SMEAR",
+            "price": "73.37"
+        },
+        {
+            "cptCode": "85049",
+            "description": "85049 PLATELET COUNT,AUTOMATED",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "85301",
+            "description": "85301 ANTI-THROMBIN III ASSAY",
+            "price": "356.64"
+        },
+        {
+            "cptCode": "84112",
+            "description": "84112 *Amniotic Fluid Proteins",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "82397",
+            "description": "82397 *CHEMILUMINESCENT ASSAY",
+            "price": "78.96"
+        },
+        {
+            "cptCode": "82542",
+            "description": "82542*NB FATTY ACID SCREEN",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "82139",
+            "description": "82139*NB AMINO ACID SCREEN",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "87641",
+            "description": "87641 MRSA BY AMP PROBE",
+            "price": "54.61"
+        },
+        {
+            "cptCode": "84030",
+            "description": "84030* NB PKU",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "83498",
+            "description": "83498*NB OH PROGESTERONE",
+            "price": "41.13"
+        },
+        {
+            "cptCode": "84439",
+            "description": "84439*NB T4",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519*NB IMMUNOREACT TRYPTOGEN",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "82775",
+            "description": "82775*NB GALACTOSE-1-PHOSPHATE",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "83021",
+            "description": "83021*NB HEMOGLOBIOPATH SCREEN",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "85041",
+            "description": "85041 RBC (RED BLOOD COUNT)",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "81243",
+            "description": "81243 *FRAGILE X",
+            "price": "128.64"
+        },
+        {
+            "cptCode": "85045",
+            "description": "85045 RETICULOCYTE COUNT",
+            "price": "132.59"
+        },
+        {
+            "cptCode": "86702",
+            "description": "86702 HIV2AB",
+            "price": "45.07"
+        },
+        {
+            "cptCode": "81221",
+            "description": "81221 *CYSTIC FIBROSIS SCRN",
+            "price": "74.03"
+        },
+        {
+            "cptCode": "87631",
+            "description": "87631 *RESP VIRUS BY NAAT 3-5",
+            "price": "145.04"
+        },
+        {
+            "cptCode": "87281",
+            "description": "87281 *PNEUMOCYSTIS CANINII DF",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *GRANULOCYTE COLONY STIM",
+            "price": "65.80"
+        },
+        {
+            "cptCode": "81500",
+            "description": "81500 *ROMA CA125",
+            "price": "65.80"
+        },
+        {
+            "cptCode": "81401",
+            "description": "81401*NOD 2 (SNP8,SNP12,SNP13)",
+            "price": "53.63"
+        },
+        {
+            "cptCode": "85303",
+            "description": "85303 PROTEIN C ACTIVITY",
+            "price": "356.64"
+        },
+        {
+            "cptCode": "89320",
+            "description": "89320 SEMEN ANALYSIS/COMPLETE",
+            "price": "146.41"
+        },
+        {
+            "cptCode": "89321",
+            "description": "89321 SEMEN PRESENCE ANALYSIS",
+            "price": "75.34"
+        },
+        {
+            "cptCode": "85048",
+            "description": "85048 WBC/ WHITE BLOOD CELL CT",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "83721",
+            "description": "83721 DIRECT LDL CHOLESTEROL",
+            "price": "45.07"
+        },
+        {
+            "cptCode": "87449",
+            "description": "87449*FUGITELL GLUCAN",
+            "price": "98.70"
+        },
+        {
+            "cptCode": "86593",
+            "description": "86593 *RPR TITER",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "87305",
+            "description": "87305*ASPERGILLIS GALACTOMA AG",
+            "price": "82.25"
+        },
+        {
+            "cptCode": "87633",
+            "description": "87633*VIRAL RESP 12-25 TARGETS",
+            "price": "280.31"
+        },
+        {
+            "cptCode": "85610",
+            "description": "85610 INCUBATED PROTIME",
+            "price": "74.68"
+        },
+        {
+            "cptCode": "85611",
+            "description": "85611 1:1 MIXED PROTIME",
+            "price": "74.68"
+        },
+        {
+            "cptCode": "85732",
+            "description": "85732 1:1 MIXED PTT",
+            "price": "58.89"
+        },
+        {
+            "cptCode": "85730",
+            "description": "85730 INCUBATED PTT",
+            "price": "58.89"
+        },
+        {
+            "cptCode": "81240",
+            "description": "81240* FACTOR 2 GENE MUTATION",
+            "price": "33.23"
+        },
+        {
+            "cptCode": "81240",
+            "description": "81240* LUPUS TYPE ANTICOAGULAN",
+            "price": "42.03"
+        },
+        {
+            "cptCode": "81241",
+            "description": "81241* FACTOR V LEIDEN MUTATIO",
+            "price": "86.34"
+        },
+        {
+            "cptCode": "81256",
+            "description": "81256* HERED HEMOCHROM",
+            "price": "44.67"
+        },
+        {
+            "cptCode": "81270",
+            "description": "81270* JAK2 MUTATION",
+            "price": "111.70"
+        },
+        {
+            "cptCode": "81291",
+            "description": "81291* MTHFR",
+            "price": "29.28"
+        },
+        {
+            "cptCode": "81210",
+            "description": "81210* BRAF GENE MUTATION",
+            "price": "250.24"
+        },
+        {
+            "cptCode": "81382",
+            "description": "81382* PROMETHEUS CELIAC GENE",
+            "price": "191.64"
+        },
+        {
+            "cptCode": "81401",
+            "description": "81401* PROMETHEUS CROHN'S PROG",
+            "price": "106.93"
+        },
+        {
+            "cptCode": "81235",
+            "description": "81235* EGFR MUTATION",
+            "price": "326.45"
+        },
+        {
+            "cptCode": "81374",
+            "description": "81374* HLAB27",
+            "price": "62.92"
+        },
+        {
+            "cptCode": "81332",
+            "description": "81332* A1ANTITRYPSIN DEFICENCY",
+            "price": "110.54"
+        },
+        {
+            "cptCode": "87305",
+            "description": "87305*ASPERGILLIS GALACTOMANAG",
+            "price": "82.25"
+        },
+        {
+            "cptCode": "86635",
+            "description": "86635*COCCIDIODES AB",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "87556",
+            "description": "87556 MTD DIRECT AMP PROBE ID",
+            "price": "246.75"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798*INFECTIOUS AGENT NOS",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "87143",
+            "description": "87143 AFB IDENTIFICATION",
+            "price": "102.32"
+        },
+        {
+            "cptCode": "87190",
+            "description": "87190 TB SENS EACH DRUG",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "87188",
+            "description": "87188 AFB SENS EACH DRUG",
+            "price": "42.44"
+        },
+        {
+            "cptCode": "87190",
+            "description": "87190 AFB SENS 2ND LINE EA DRG",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "87186",
+            "description": "87186 RAPID AFB SENS EACH DRUG",
+            "price": "19.41"
+        },
+        {
+            "cptCode": "80169",
+            "description": "80169*EVEROLIMUS LEVEL",
+            "price": "34.55"
+        },
+        {
+            "cptCode": "80299",
+            "description": "80299*INFLIXIMAB",
+            "price": "78.96"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790*VIRUS NOS",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "87380",
+            "description": "87380*HEPATITIS DELTA ANTIGEN",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "82271",
+            "description": "82271 OCCULT BLOOD OTHR SOURCE",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "82272",
+            "description": "82272 OCC BLOOD, STOOL,SIN,DIA",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "87116",
+            "description": "87116 AFB CULTURE ISOLATION",
+            "price": "38.49"
+        },
+        {
+            "cptCode": "87427",
+            "description": "87427 SHIG TOXIN SCREEN",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "87015",
+            "description": "87015 STOOL ENRICHMENT BROTH",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "86039",
+            "description": "86039 ANA TITER",
+            "price": "209.57"
+        },
+        {
+            "cptCode": "87186",
+            "description": "87186 ANTIBIOTIC SENS (MIC)",
+            "price": "139.83"
+        },
+        {
+            "cptCode": "87185",
+            "description": "87185 ANTIBIOTIC SENS ENZYME",
+            "price": "26.65"
+        },
+        {
+            "cptCode": "87491",
+            "description": "87491 CHLAMYDIA TRACH DNA NAAT",
+            "price": "144.10"
+        },
+        {
+            "cptCode": "86038",
+            "description": "86038 ANA SCREEN",
+            "price": "164.83"
+        },
+        {
+            "cptCode": "87591",
+            "description": "87591 NEISSERIA GONOR DNA NAAT",
+            "price": "144.10"
+        },
+        {
+            "cptCode": "86038",
+            "description": "86038 *ANTI-CHROMATIN AB",
+            "price": "21.71"
+        },
+        {
+            "cptCode": "87081",
+            "description": "87081 CULTURE, BACT. SCREEN",
+            "price": "83.57"
+        },
+        {
+            "cptCode": "87081",
+            "description": "87081 CULTURE BORD PERTUSSIS",
+            "price": "44.42"
+        },
+        {
+            "cptCode": "87040",
+            "description": "87040 CULTURE BLOOD",
+            "price": "251.03"
+        },
+        {
+            "cptCode": "87102",
+            "description": "87102 CULTURE FUNGUS OTH SOURC",
+            "price": "172.40"
+        },
+        {
+            "cptCode": "87101",
+            "description": "87101 CULTURE FUNGUS (SK,HR,N)",
+            "price": "57.25"
+        },
+        {
+            "cptCode": "87181",
+            "description": "87181 E TEST SENSITIVITY",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "87103",
+            "description": "87103 CULTURE BLOOD FUNGUS",
+            "price": "251.03"
+        },
+        {
+            "cptCode": "87106",
+            "description": "87106 FUNGUS ID YEAST DEFINIT.",
+            "price": "74.68"
+        },
+        {
+            "cptCode": "87107",
+            "description": "87107 FUNGUS ID MOLD DEFINITIV",
+            "price": "74.68"
+        },
+        {
+            "cptCode": "87804",
+            "description": "87804 INFLUENZA A ANTIGEN",
+            "price": "48.03"
+        },
+        {
+            "cptCode": "87804",
+            "description": "87804 INFLUENZA B ANTIGEN",
+            "price": "48.03"
+        },
+        {
+            "cptCode": "87081",
+            "description": "87081 CULTURE G C SCREEN",
+            "price": "100.02"
+        },
+        {
+            "cptCode": "87880",
+            "description": "87880 RAPID STREP SCRN GRP A",
+            "price": "44.42"
+        },
+        {
+            "cptCode": "86793",
+            "description": "86793*YERSINIA PESTIS AB",
+            "price": "34.55"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516*NON-INF AGENT AB MULT-ST",
+            "price": "38.16"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255*FLOURE NON-INF AB SCREEN",
+            "price": "20.73"
+        },
+        {
+            "cptCode": "86256",
+            "description": "86256*FLOURES NON-INF AB TITER",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "87147",
+            "description": "87147 BACT.AG(EA/LTX) AGGLUT.",
+            "price": "114.16"
+        },
+        {
+            "cptCode": "87150",
+            "description": "87150 S AUREUS_ID_MOLECULAR",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "87150",
+            "description": "87150 MRSA_ID_MOLECULAR",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "87150",
+            "description": "87150 *ORGANISM ID BY DNA PROB",
+            "price": "39.40"
+        },
+        {
+            "cptCode": "87153",
+            "description": "87153 *ORGANISM ID BY DNA SEQU",
+            "price": "85.54"
+        },
+        {
+            "cptCode": "82270",
+            "description": "82270 OCB SCREEN 1-3 SAMPLES",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "82272",
+            "description": "82272 OCCULT BLOOD MULTI SPECS",
+            "price": "38.49"
+        },
+        {
+            "cptCode": "89055",
+            "description": "89055 FECAL WBC",
+            "price": "75.01"
+        },
+        {
+            "cptCode": "87176",
+            "description": "87176 HOMOGENIZATION TISSUE",
+            "price": "43.43"
+        },
+        {
+            "cptCode": "87207",
+            "description": "87207 MODIFIED AF SMEAR PARAS",
+            "price": "49.68"
+        },
+        {
+            "cptCode": "87147",
+            "description": "87147 PBP TEST STAPH",
+            "price": "117.12"
+        },
+        {
+            "cptCode": "87329",
+            "description": "87329 GIARDIA SCREEN EIA",
+            "price": "48.03"
+        },
+        {
+            "cptCode": "87071",
+            "description": "87071 QUANT ACROBIC CULTURE",
+            "price": "42.11"
+        },
+        {
+            "cptCode": "87073",
+            "description": "87073 QUANT ANAEROBIC CULTURE",
+            "price": "73.37"
+        },
+        {
+            "cptCode": "87147",
+            "description": "87147 BACTERIAL ID TYPING",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "87324",
+            "description": "87324  C.DIFF (TOXIN ASSAY)",
+            "price": "172.40"
+        },
+        {
+            "cptCode": "84376",
+            "description": "84376 FECAL REDUC. SUBSTANCES",
+            "price": "29.28"
+        },
+        {
+            "cptCode": "87425",
+            "description": "87425 ROTAVIRUS ANTIGEN",
+            "price": "44.42"
+        },
+        {
+            "cptCode": "87206",
+            "description": "87206 SMEAR - ACID FAST F.A.",
+            "price": "102.98"
+        },
+        {
+            "cptCode": "87205",
+            "description": "87205 SMEAR - FUNGUS",
+            "price": "58.89"
+        },
+        {
+            "cptCode": "87207",
+            "description": "87207 SMEAR - GIEMSA STAIN",
+            "price": "61.19"
+        },
+        {
+            "cptCode": "87205",
+            "description": "87205 SMEAR - GRAM STAIN",
+            "price": "75.34"
+        },
+        {
+            "cptCode": "87086",
+            "description": "87086 CULTURE - URINE",
+            "price": "162.20"
+        },
+        {
+            "cptCode": "87077",
+            "description": "87077 AEROBIC ID DEFINITIVE",
+            "price": "64.48"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULTURE - CATHETER TIP",
+            "price": "162.20"
+        },
+        {
+            "cptCode": "87209",
+            "description": "87209 TRICHROME STAIN/STOOL",
+            "price": "114.16"
+        },
+        {
+            "cptCode": "87172",
+            "description": "87172 PINWORM EXAM",
+            "price": "53.63"
+        },
+        {
+            "cptCode": "87177",
+            "description": "87177 OVA & PARASITES",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "87207",
+            "description": "87207 SMEAR - WET PREP",
+            "price": "53.63"
+        },
+        {
+            "cptCode": "87328",
+            "description": "87328CRYPTOSPORIDIA SCREEN EIA",
+            "price": "48.03"
+        },
+        {
+            "cptCode": "87506",
+            "description": "87506 VERIGENE EP 6-11 TARGETS",
+            "price": "181.61"
+        },
+        {
+            "cptCode": "87015",
+            "description": "87015 TB CONCENTRATION",
+            "price": "203.32"
+        },
+        {
+            "cptCode": "87075",
+            "description": "87075 ANAEROBIC BACTERIAL CULT",
+            "price": "255.63"
+        },
+        {
+            "cptCode": "87184",
+            "description": "87184 SENSITIVITY (K-B)",
+            "price": "123.38"
+        },
+        {
+            "cptCode": "87076",
+            "description": "87076 ANAER ID DEFINITIVE",
+            "price": "103.64"
+        },
+        {
+            "cptCode": "83986",
+            "description": "83986 FECAL PH",
+            "price": "32.57"
+        },
+        {
+            "cptCode": "87077",
+            "description": "87077  URINE ID DEFINITIVE",
+            "price": "58.89"
+        },
+        {
+            "cptCode": "87899",
+            "description": "87899 * Cryptococcal Antigen",
+            "price": "65.14"
+        },
+        {
+            "cptCode": "87420",
+            "description": "87420 RESP SYNC VIRUS (RSV)",
+            "price": "114.16"
+        },
+        {
+            "cptCode": "87270",
+            "description": "87270 CHLAMYDIA SMEAR (DFA)",
+            "price": "119.43"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULTURE-GENITOURINARY",
+            "price": "176.67"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULTURE-EYE/EAR",
+            "price": "176.67"
+        },
+        {
+            "cptCode": "87045",
+            "description": "87045 CULTURE-STOOL",
+            "price": "184.57"
+        },
+        {
+            "cptCode": "87046",
+            "description": "87046 CULTURE STOOL ADD PATH",
+            "price": "53.63"
+        },
+        {
+            "cptCode": "87800",
+            "description": "87800AFFIRM DNA PROB CAN TRICH",
+            "price": "45.73"
+        },
+        {
+            "cptCode": "87799",
+            "description": "87799 *QUANT DIRECT PROBE/EACH",
+            "price": "122.72"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULTURE - AEROBIC",
+            "price": "187.86"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULT.-STERILE BODY FLUID",
+            "price": "268.46"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULT.-LOWER RESPIRATORY",
+            "price": "212.21"
+        },
+        {
+            "cptCode": "87070",
+            "description": "87070 CULT.-UPPER RESPIRATORY",
+            "price": "152.00"
+        },
+        {
+            "cptCode": "89060",
+            "description": "89060 CRYSTALS-FLUID",
+            "price": "73.37"
+        },
+        {
+            "cptCode": "85613",
+            "description": "85613 * DRVVT",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "82465",
+            "description": "82465 FLUID CHOLESTEROL",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "82042",
+            "description": "82042 FLUID ALBUMIN",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "82247",
+            "description": "82247 FLUID BILIRUBIN",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82570",
+            "description": "82570  FLUID CREATININE",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "84520",
+            "description": "84520 FLUID UREA NITROGEN",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "84478",
+            "description": "84478 FLUID TRIGLYCERIDE",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "82962",
+            "description": "82962 POINT OF CARE GLUCOSE",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82950",
+            "description": "82950 GLUCOSE, POST DOSE",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "85520",
+            "description": "85520 FXA (LMWH)",
+            "price": "70.08"
+        },
+        {
+            "cptCode": "86022",
+            "description": "86022 *HEPARIN INDUCED AB",
+            "price": "90.48"
+        },
+        {
+            "cptCode": "84295",
+            "description": "84295  ISTAT SODIUM",
+            "price": "37.18"
+        },
+        {
+            "cptCode": "85014",
+            "description": "85014  ISTAT HEMATOCRIT",
+            "price": "24.35"
+        },
+        {
+            "cptCode": "82947",
+            "description": "82947  ISTAT GLUCOSE",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84120",
+            "description": "84120 *PORPHYRINS FRACT QNT",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "84132",
+            "description": "84132  ISTAT K",
+            "price": "37.18"
+        },
+        {
+            "cptCode": "85610",
+            "description": "85610 POC PT/INR",
+            "price": "5.59"
+        },
+        {
+            "cptCode": "81050",
+            "description": "81050 VOLUME MEASUREMENT",
+            "price": "32.57"
+        },
+        {
+            "cptCode": "82009",
+            "description": "82009 ACETONE SERUM",
+            "price": "100.02"
+        },
+        {
+            "cptCode": "82040",
+            "description": "82040 ALBUMIN (ALB) SERUM",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82140",
+            "description": "82140 AMMONIA",
+            "price": "222.40"
+        },
+        {
+            "cptCode": "82150",
+            "description": "82150 AMYLASE (AMYL) SERUM",
+            "price": "162.53"
+        },
+        {
+            "cptCode": "82150",
+            "description": "82150 AMYLASE (24 HOUR URINE)",
+            "price": "63.50"
+        },
+        {
+            "cptCode": "82150",
+            "description": "82150 AMYLASE URINE",
+            "price": "65.47"
+        },
+        {
+            "cptCode": "82247",
+            "description": "82247 TOTAL BILIRUBUN",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82248",
+            "description": "82248 BILIRUBIN, CONJUCATED",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "80048",
+            "description": "80048 BASIC METABOLIC PANEL",
+            "price": "385.92"
+        },
+        {
+            "cptCode": "80053",
+            "description": "80053 COMP METABOLIC PANEL",
+            "price": "610.95"
+        },
+        {
+            "cptCode": "80076",
+            "description": "80076 HEPATIC FUNCTION PANEL",
+            "price": "307.29"
+        },
+        {
+            "cptCode": "80069",
+            "description": "80069 RENAL FUNCTION PANEL",
+            "price": "436.91"
+        },
+        {
+            "cptCode": "84520",
+            "description": "84520 BLOOD UREA NITROGEN(BUN)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82310",
+            "description": "82310 CALCIUM (CA)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82340",
+            "description": "82340 CALCIUM (24 HR URINE)",
+            "price": "82.58"
+        },
+        {
+            "cptCode": "82374",
+            "description": "82374 CARBON DIOXIDE (CO2)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82435",
+            "description": "82435 CHLORIDE (CL)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82465",
+            "description": "82465 CHOLESTEROL (CHOL)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82465",
+            "description": "82465 CHOLESTEROL SCREEN",
+            "price": "15.79"
+        },
+        {
+            "cptCode": "82550",
+            "description": "82550 CPK (CK)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82570",
+            "description": "82570 CREATININE (24 HR URINE)",
+            "price": "108.90"
+        },
+        {
+            "cptCode": "82565",
+            "description": "82565 CREATININE (CREA)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82575",
+            "description": "82575 CREATININE CLEARANCE",
+            "price": "108.90"
+        },
+        {
+            "cptCode": "82438",
+            "description": "82438 FLUID ANALYSIS-CHLORIDE",
+            "price": "90.80"
+        },
+        {
+            "cptCode": "82438",
+            "description": "82438 *FECAL CLHLORIDE",
+            "price": "5.51"
+        },
+        {
+            "cptCode": "83615",
+            "description": "83615 FLUID ANALYSIS - LDH",
+            "price": "75.34"
+        },
+        {
+            "cptCode": "84157",
+            "description": "84157 FLUID ANALYSIS - PROTEIN",
+            "price": "90.80"
+        },
+        {
+            "cptCode": "82945",
+            "description": "82945 FLUID ANALYSIS - GLUCOSE",
+            "price": "86.86"
+        },
+        {
+            "cptCode": "82951",
+            "description": "82951 GLUC TOLERANCE,1ST 3 SPE",
+            "price": "103.64"
+        },
+        {
+            "cptCode": "82952",
+            "description": "82952 GLUC TOLRNCE EA ADD SPEC",
+            "price": "44.42"
+        },
+        {
+            "cptCode": "83615",
+            "description": "83615 LDH LACTIC DEHYDROGENASE",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "83690",
+            "description": "83690 LIPASE",
+            "price": "178.65"
+        },
+        {
+            "cptCode": "83690",
+            "description": "83690 FLUID LIPASE",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "80061",
+            "description": "80061 LIPID PANEL",
+            "price": "193.12"
+        },
+        {
+            "cptCode": "80178",
+            "description": "80178 LITHIUM (LI)",
+            "price": "90.80"
+        },
+        {
+            "cptCode": "84075",
+            "description": "84075 PHOSPHATASE, ALK. (ALP)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84105",
+            "description": "84105 PHOS (24 HR URINE)",
+            "price": "79.62"
+        },
+        {
+            "cptCode": "84100",
+            "description": "84100 PHOSPHORUS (PHOS)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "83735",
+            "description": "83735 MG (24 HR URINE)",
+            "price": "74.35"
+        },
+        {
+            "cptCode": "83735",
+            "description": "83735 *FECAL MAGNESIUM",
+            "price": "76.33"
+        },
+        {
+            "cptCode": "84132",
+            "description": "84132 POTASSIUM (K)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84156",
+            "description": "84156 PROTEIN-QUANT (24 HR UR)",
+            "price": "75.34"
+        },
+        {
+            "cptCode": "84155",
+            "description": "84155 PROTEIN,TOTAL SERUM (TP)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84540",
+            "description": "84540 UREA (RANDOM URINE)",
+            "price": "63.50"
+        },
+        {
+            "cptCode": "84450",
+            "description": "84450 SGOT,(GOT) OR (AST)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84460",
+            "description": "84460 SGPT, (GPT) OR (ALT)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84295",
+            "description": "84295 SODIUM (NA)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "80051",
+            "description": "80051 ELECTROLYTE PANEL",
+            "price": "176.34"
+        },
+        {
+            "cptCode": "82947",
+            "description": "82947 GLUCOSE (GLU)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "82947",
+            "description": "82947 GLUCOSE 2HR PP",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84478",
+            "description": "84478 TRIGLYCERIDES (TRIG)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84484",
+            "description": "84484 TROPONIN I",
+            "price": "74.35"
+        },
+        {
+            "cptCode": "84560",
+            "description": "84560 URIC ACID, URINE",
+            "price": "100.02"
+        },
+        {
+            "cptCode": "84550",
+            "description": "84550 URIC ACID - SERUM",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "84133",
+            "description": "84133 POTASSIUM (K) (24 HR UR)",
+            "price": "90.80"
+        },
+        {
+            "cptCode": "84300",
+            "description": "84300 SODIUM (NA)(24 HR URINE)",
+            "price": "65.47"
+        },
+        {
+            "cptCode": "82977",
+            "description": "82977 GAMMA-GT (GGT)",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "83735",
+            "description": "83735 MAGNESIUM (MG)",
+            "price": "136.86"
+        },
+        {
+            "cptCode": "89230",
+            "description": "89230 SWEAT CHLORIDE",
+            "price": "197.07"
+        },
+        {
+            "cptCode": "84133",
+            "description": "84133 POTASSIUM (K)(RANDOM UR)",
+            "price": "83.57"
+        },
+        {
+            "cptCode": "84300",
+            "description": "84302 SODIUM (NA) (RANDOM UR)",
+            "price": "75.01"
+        },
+        {
+            "cptCode": "82570",
+            "description": "82570 CREATININE (RANDOM UR)",
+            "price": "108.90"
+        },
+        {
+            "cptCode": "82310",
+            "description": "82310 CALCIUM (CA) (RANDOM UR)",
+            "price": "74.35"
+        },
+        {
+            "cptCode": "83718",
+            "description": "83718 HDL",
+            "price": "107.91"
+        },
+        {
+            "cptCode": "84105",
+            "description": "84105 PHOSPHORUS (RANDOM UR)",
+            "price": "61.19"
+        },
+        {
+            "cptCode": "84540",
+            "description": "84540 UREA-QUANT (24HR URINE)",
+            "price": "90.80"
+        },
+        {
+            "cptCode": "83550",
+            "description": "83550 IRON BINDING CAPACITY",
+            "price": "132.59"
+        },
+        {
+            "cptCode": "83540",
+            "description": "83540 IRON, SERUM",
+            "price": "132.59"
+        },
+        {
+            "cptCode": "84156",
+            "description": "84156 PROTEIN-RANDOM URINE",
+            "price": "82.58"
+        },
+        {
+            "cptCode": "82436",
+            "description": "82436 CHLORIDE (CL) (24 HR UR)",
+            "price": "61.19"
+        },
+        {
+            "cptCode": "82436",
+            "description": "82436 CHLORIDE (CL)(RANDOM UR)",
+            "price": "73.37"
+        },
+        {
+            "cptCode": "84157",
+            "description": "84157 PROTEIN, CSF",
+            "price": "102.98"
+        },
+        {
+            "cptCode": "80050",
+            "description": "80050 GENERAL HEALTH PANEL",
+            "price": "955.42"
+        },
+        {
+            "cptCode": "80055",
+            "description": "80055 OBSTETRIC PANEL",
+            "price": "689.26"
+        },
+        {
+            "cptCode": "82150",
+            "description": "82150 AMYLASE,BODY FLUID",
+            "price": "83.57"
+        },
+        {
+            "cptCode": "84703",
+            "description": "84703 POC URINE PREGNANCY TEST",
+            "price": "124.36"
+        },
+        {
+            "cptCode": "81596",
+            "description": "81596 *NASH",
+            "price": "131.60"
+        },
+        {
+            "cptCode": "84315",
+            "description": "84315 SP GRAV-BODY FLUID",
+            "price": "42.11"
+        },
+        {
+            "cptCode": "81003",
+            "description": "81003 URINE DIPSTICK-ONE COMP",
+            "price": "26.65"
+        },
+        {
+            "cptCode": "81003",
+            "description": "81003 URINALYSIS-DIPSTICK ONLY",
+            "price": "74.35"
+        },
+        {
+            "cptCode": "81003",
+            "description": "81003 POC URINE DIPSTICK",
+            "price": "74.35"
+        },
+        {
+            "cptCode": "81001",
+            "description": "81001 URINALYSIS (COMPLETE)",
+            "price": "105.61"
+        },
+        {
+            "cptCode": "89050",
+            "description": "89050 EOSINOPHILS, URINE",
+            "price": "32.57"
+        },
+        {
+            "cptCode": "36415",
+            "description": "36415 VENIPUNCTURE",
+            "price": "29.28"
+        },
+        {
+            "cptCode": "84030",
+            "description": "84030 NEWBORN SCREENING TEST",
+            "price": "233.92"
+        },
+        {
+            "cptCode": "86803",
+            "description": "86803 HEPATITIS C ANTIBODY",
+            "price": "255.63"
+        },
+        {
+            "cptCode": "86653",
+            "description": "86653*ST LOUIS ENCEPHALI IGM",
+            "price": "6.42"
+        },
+        {
+            "cptCode": "85597",
+            "description": "85597 *PLATELET NEUTRALIZATION",
+            "price": "15.46"
+        },
+        {
+            "cptCode": "85610",
+            "description": "85610 * LUPUS PT",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "80332",
+            "description": "80332*1-2ANTIDEPR(SEROTONOGENI",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "82135",
+            "description": "82135*AMINOLEVULINIC ACID(ALA)",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "85613",
+            "description": "85613 * LUPUS DRVVT",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "82731",
+            "description": "82731 FETAL FIBRINECTIN QUAL",
+            "price": "293.47"
+        },
+        {
+            "cptCode": "86708",
+            "description": "86708 * HEPATITIS A TOTAL AB",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86355",
+            "description": "86355* B CELLS, TOTAL COUNT",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "86359",
+            "description": "86359 * T CELLS, TOTAL COUNT",
+            "price": "98.70"
+        },
+        {
+            "cptCode": "86360",
+            "description": "86360*T CELL ABS CD4/CD8 RATIO",
+            "price": "98.70"
+        },
+        {
+            "cptCode": "86357",
+            "description": "86357* NATURAL KILLER CELLS",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "85670",
+            "description": "85670 * LUPUS THROMBIN TIME",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "80074",
+            "description": "80074 ACUTE HEPATITIS PANEL",
+            "price": "764.60"
+        },
+        {
+            "cptCode": "85730",
+            "description": "85730 * LUPUS PTT",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "85732",
+            "description": "85732 * LUPUS PTT SUBSTITUTION",
+            "price": "5.26"
+        },
+        {
+            "cptCode": "82378",
+            "description": "82378 CEA (CARCINOEMBRYO AG)",
+            "price": "59.55"
+        },
+        {
+            "cptCode": "87899",
+            "description": "87899 * STREP PNEUMO SERUM",
+            "price": "8.81"
+        },
+        {
+            "cptCode": "87899",
+            "description": "87899 * STREP PNEUMO CSF",
+            "price": "8.81"
+        },
+        {
+            "cptCode": "87899",
+            "description": "87899 * STREP PNEUMO URINE",
+            "price": "8.81"
+        },
+        {
+            "cptCode": "86356",
+            "description": "86356 *PAROXYSMAL NOCT HGBURIA",
+            "price": "30.65"
+        },
+        {
+            "cptCode": "80361",
+            "description": "80361*/G0480 OPIATES CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE A TYPE 2",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE A TYPE 4",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86160",
+            "description": "86160 C-3 COMPLEMENT",
+            "price": "111.20"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE A TYPE 7",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE A TYPE 9",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE A TYPE 10",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE A TYPE 16",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE B TYPE 1",
+            "price": "17.44"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE B TYPE 2",
+            "price": "17.44"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 COXSACKIE B TYPE 3",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "G0103",
+            "description": "G0103 PSA (ANNUAL SCREEN)",
+            "price": "78.63"
+        },
+        {
+            "cptCode": "82784",
+            "description": "82784 * CSF IGG",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "82042",
+            "description": "82042 * CSF ALBUMIN",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "82040",
+            "description": "82040 * SERUM ALBUMIN",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "82784",
+            "description": "82784 * SERUM IGG",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "82570",
+            "description": "82570 * CREATININE URINE",
+            "price": "3.62"
+        },
+        {
+            "cptCode": "84156",
+            "description": "84156 * PROTEIN URINE",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "86617",
+            "description": "86617 *LYME DISEASE CONFIRMTRY",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86361",
+            "description": "86361 *CD4",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "88185",
+            "description": "88185 *FLOW CYTOMETRY ADD MRKS",
+            "price": "11.50"
+        },
+        {
+            "cptCode": "88230",
+            "description": "88230 * TISSUE CULTURE",
+            "price": "164.50"
+        },
+        {
+            "cptCode": "86663",
+            "description": "86663 * EARLY ANTIGEN DIFFUSE",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86664",
+            "description": "86664 * NUCLEAR ANTIGEN",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86665",
+            "description": "86665 * VIRAL CAPSID ANTIGEN",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "86694",
+            "description": "86694 * HERPES SIMPLEX NONSPEC",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "82533",
+            "description": "82533 CORTISOL, PLASMA",
+            "price": "285.57"
+        },
+        {
+            "cptCode": "83880",
+            "description": "83880 B-TYPE NATRIURETIC PEPTD",
+            "price": "78.63"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658*COXSACKIE B TYPE 4",
+            "price": "5.26"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658*COXSACKIE B TYPE 5",
+            "price": "5.26"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658*COXSACKIE B TYPE 6",
+            "price": "5.26"
+        },
+        {
+            "cptCode": "86160",
+            "description": "86160 *C2 COMPLEMENT",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "80349",
+            "description": "80349*G0480 CANNABI NATURAL CL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80353",
+            "description": "80353*/G0480 COCAINE CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80346",
+            "description": "80346*/G0480 1-12 BENZODIAZAPI",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80345",
+            "description": "80345*/G0480 BARBITURATE CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87230",
+            "description": "87230 * C. DIFFICILE TOXIN B",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "83874",
+            "description": "83874 * MYOGLOBIN, BLOOD",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "83695",
+            "description": "83695 * LIPOPROTEIN A",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "87498",
+            "description": "87498 * ENTEROVIRAS RNA PCR",
+            "price": "67.77"
+        },
+        {
+            "cptCode": "80177",
+            "description": "80177 *KEPPRA (LEVETRACETAM)",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "86316",
+            "description": "86316 * CHROMOGRANIN A",
+            "price": "54.29"
+        },
+        {
+            "cptCode": "82657",
+            "description": "82657 *ADENOSINE DEAMINASE",
+            "price": "57.58"
+        },
+        {
+            "cptCode": "80183",
+            "description": "80183*OXYCARBAMAZEPINE(TRILEPT",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "88237",
+            "description": "88237 *TISS CULT BLD/BONE MARR",
+            "price": "90.48"
+        },
+        {
+            "cptCode": "88239",
+            "description": "88239 *TISSUE CULT SOLID TUMOR",
+            "price": "90.48"
+        },
+        {
+            "cptCode": "88291",
+            "description": "88291 *CHROMOSONE ANALYSIS INT",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "80337",
+            "description": "80337*/G0481 >6TRICYCL ANTIDEP",
+            "price": "40.80"
+        },
+        {
+            "cptCode": "88184",
+            "description": "88184 *FLOW CYTOMETRY CELL MRK",
+            "price": "101.33"
+        },
+        {
+            "cptCode": "86335",
+            "description": "86335 * BETA 2 TRASFERRIN",
+            "price": "69.71"
+        },
+        {
+            "cptCode": "85246",
+            "description": "85246 *VON WILLEBRAND FAC AG",
+            "price": "41.45"
+        },
+        {
+            "cptCode": "86611",
+            "description": "86611 * B. HENSELAE IGG AB",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86611",
+            "description": "86611 * B. HENSELAE IGM AB",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86611",
+            "description": "86611 * B. QUINTANA IGG AB",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86611",
+            "description": "86611 * B QUINTANA IGM AB",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83835",
+            "description": "83835 * METANEPHRINES PLASMA",
+            "price": "49.35"
+        },
+        {
+            "cptCode": "84302",
+            "description": "84302 * SODIUM, FECAL",
+            "price": "5.18"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 * B PERTUSSIS PCR",
+            "price": "67.77"
+        },
+        {
+            "cptCode": "87385",
+            "description": "87385 * HISTOPLASMA AG URINE",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "86200",
+            "description": "86200 * CYCLIC CIRTULLINE PEPT",
+            "price": "34.55"
+        },
+        {
+            "cptCode": "80162",
+            "description": "80162 DIGOXIN LEVEL",
+            "price": "141.14"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 * ADENOVIRUS CULTURE",
+            "price": "15.13"
+        },
+        {
+            "cptCode": "82523",
+            "description": "82523 * N TELOPEPTIDE (NTX)",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "84376",
+            "description": "84376 *REDUCING SUBSTANCE FECL",
+            "price": "3.62"
+        },
+        {
+            "cptCode": "80195",
+            "description": "80195 * SIROLIMUS",
+            "price": "31.91"
+        },
+        {
+            "cptCode": "86622",
+            "description": "86622 * BRUCELLA AB IGG",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "86622",
+            "description": "86622 * BRUCELLA AB IGM",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "80365",
+            "description": "80365*/G0480 OXYCODONE CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80185",
+            "description": "80185 DILANTIN LEVEL",
+            "price": "230.96"
+        },
+        {
+            "cptCode": "85013",
+            "description": "85013 * FLUID HEMATOCRIT",
+            "price": "2.63"
+        },
+        {
+            "cptCode": "84311",
+            "description": "84311 * POTASSIUM FECAL",
+            "price": "5.18"
+        },
+        {
+            "cptCode": "86713",
+            "description": "86713 * L PNEUMOPHILIA IGM AB",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "87253",
+            "description": "87253 * ENTEROVIRUS CULTURE ID",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 * TRYPTASE",
+            "price": "29.28"
+        },
+        {
+            "cptCode": "84402",
+            "description": "84402 * TESTOSTERONE FREE",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "87338",
+            "description": "87338 * H PYLORI AG STOOL",
+            "price": "35.53"
+        },
+        {
+            "cptCode": "83021",
+            "description": "83021 *HEMOGLOBINOPATHY PANEL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87252",
+            "description": "87252 * ENTEROVIRUS CLTR",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *VARICELLA ZOSTER PCR",
+            "price": "117.62"
+        },
+        {
+            "cptCode": "87337",
+            "description": "87337 *AMOEBIC AB",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "80326",
+            "description": "80326*/G0480 >5 AMPHETAMINES",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "82523",
+            "description": "82523 *CTX",
+            "price": "27.97"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *PARVO B19 DNA QL PCR",
+            "price": "123.38"
+        },
+        {
+            "cptCode": "83700",
+            "description": "83700 *LIPOPROTEIN,ELECTROPHOR",
+            "price": "40.47"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235*ANTI-RNP AB",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235*ANTI-SSA AB",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235*ANTI-SSB AB",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "80185",
+            "description": "80185 *BOUND PHENYTOIN",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "80367",
+            "description": "80367*/G0480 PROPOXYPHEN CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80307",
+            "description": "80307*PHENCYCLIDINE (PCP)",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *WEST NILE RNA SERUM",
+            "price": "93.77"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 * CHLAMYDIA AB",
+            "price": "26.32"
+        },
+        {
+            "cptCode": "86632",
+            "description": "86632 * CHLAMYDIA IGM AB",
+            "price": "26.32"
+        },
+        {
+            "cptCode": "84081",
+            "description": "84081 * PHOSPHATIDY/GLYCEROL",
+            "price": "153.68"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *CATFISH ALLERGEN IGE",
+            "price": "5.56"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *COCOA ALLERGEN IGE",
+            "price": "8.50"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *CODFISH ALLERGEN IGE",
+            "price": "55.27"
+        },
+        {
+            "cptCode": "86038",
+            "description": "86038*Anti-Centromere Ab",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "86225",
+            "description": "*ANTI-DOUBLE STRANDED DNA",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "86235",
+            "description": "*ANTI-SM SA",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "84075",
+            "description": "*Total Alkaline Phosphatase",
+            "price": "3.62"
+        },
+        {
+            "cptCode": "86039",
+            "description": "*ANA MC Titer",
+            "price": "7.57"
+        },
+        {
+            "cptCode": "86790",
+            "description": "*Hantavirus IgM",
+            "price": "28.79"
+        },
+        {
+            "cptCode": "86790",
+            "description": "*Hantavirus IgG",
+            "price": "28.79"
+        },
+        {
+            "cptCode": "82550",
+            "description": "82550 *CK, TOTAL",
+            "price": "4.28"
+        },
+        {
+            "cptCode": "87140",
+            "description": "*Culture Typin",
+            "price": "5.76"
+        },
+        {
+            "cptCode": "86146",
+            "description": "*Beta 2 Glycoprotein I-IgG",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "86146",
+            "description": "*Beta 2 Glycoprotein I-IgA",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "86146",
+            "description": "*Beta 2 Glycoprotein I-IgM",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "86789",
+            "description": "86789 *West Nile Virus IgG",
+            "price": "20.56"
+        },
+        {
+            "cptCode": "82746",
+            "description": "82746 FOLIC ACID  (FOLATE)",
+            "price": "189.50"
+        },
+        {
+            "cptCode": "86788",
+            "description": "86788 *West Nile Virus IgM",
+            "price": "20.56"
+        },
+        {
+            "cptCode": "83516",
+            "description": "*Gliadin/Gluten IgG Ab",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "83516",
+            "description": "*GLIADIN/GLUTEN IGA AB",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 *GANGLIOSIDES GM-1AB,IGG",
+            "price": "41.13"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 *GANGLIOSIDES GM-1AB,IGM",
+            "price": "41.13"
+        },
+        {
+            "cptCode": "86747",
+            "description": "*PARVOVIRUS B19-IGG",
+            "price": "20.07"
+        },
+        {
+            "cptCode": "86747",
+            "description": "*PARVOVIRUS B19-IGM",
+            "price": "20.07"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 QUANT IMMUNOASSAY",
+            "price": "21.71"
+        },
+        {
+            "cptCode": "83876",
+            "description": "*MYELOPEROXIDASE AB",
+            "price": "22.04"
+        },
+        {
+            "cptCode": "86658",
+            "description": "*ECHOVIRUS TYPE 7",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86658",
+            "description": "*ECHOVIRUS TYPE 9",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86658",
+            "description": "*ECHOVIRUS TYPE 11",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86658",
+            "description": "*ECHOVIRUS TYPE 30",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "80170",
+            "description": "80170 GENTAMICIN LEVEL",
+            "price": "247.74"
+        },
+        {
+            "cptCode": "86768",
+            "description": "*SALMONELLA O, TYPE VI",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86622",
+            "description": "*BRUCELLA AB, IGG",
+            "price": "12.34"
+        },
+        {
+            "cptCode": "86622",
+            "description": "*BRUCELLA AB, IGM",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "86658",
+            "description": "*ECHOVIRUS TYPE 4",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86768",
+            "description": "*SALMONELLA O, TYPE D",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86768",
+            "description": "*SALMONELLA H, TYPE D",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86768",
+            "description": "*SALMONELLA H, TYPE A",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86768",
+            "description": "*SALMONELLA H, TYPE B",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86757",
+            "description": "*R. RICKETTSII IGG AB",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "85240",
+            "description": "85240*FACTOR 8 ASSAY",
+            "price": "57.58"
+        },
+        {
+            "cptCode": "86757",
+            "description": "*R. TYPHI IGG AB",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "86757",
+            "description": "*R. RICKETTSII IGM AB",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "86757",
+            "description": "*R. TYPHI IGM AB",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "86735",
+            "description": "*MUMPS AB IGM",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "86735",
+            "description": "*MUMPS AB IGG",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "86790",
+            "description": "*PARAINFLUENZA TYPE 1",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "86790",
+            "description": "*PARAINFLUENZA TYPE 2",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "86790",
+            "description": "*PARAINFLUENZA TYPE 3",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "86022",
+            "description": "*PLATELET AB IGG",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "86022",
+            "description": "*PLATELET AB IGM",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *WEST NILE RNA CSF",
+            "price": "93.77"
+        },
+        {
+            "cptCode": "83010",
+            "description": "83010 HAPTOGLOBIN",
+            "price": "118.11"
+        },
+        {
+            "cptCode": "86022",
+            "description": "*PLATELET AB IGA",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "86713",
+            "description": "86713 *L PNEUMO SEROGROUPS",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86744",
+            "description": "*FAENIA RETIVIRGULA",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86671",
+            "description": "*ACREMONIUM (CEPHALOSPORIUM)",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86602",
+            "description": "86602 *THERMOACTINOMYCES",
+            "price": "5.59"
+        },
+        {
+            "cptCode": "86602",
+            "description": "86602 *A. PULLULANS",
+            "price": "5.26"
+        },
+        {
+            "cptCode": "86671",
+            "description": "86671 *PIGEON SERUM AB",
+            "price": "5.59"
+        },
+        {
+            "cptCode": "86606",
+            "description": "*ASPERGILLIS FUMIGATUS",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86606",
+            "description": "*ASPERGILLUS FLAVIS",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86606",
+            "description": "*ASPERGILLUS NIGER",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "83970",
+            "description": "*PTH N-TERMINAL",
+            "price": "27.64"
+        },
+        {
+            "cptCode": "82787",
+            "description": "*IGG SUBCLASS 1",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "82787",
+            "description": "*IGG SUBCLASS 2",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "82787",
+            "description": "*IGG SUBCLASS 3",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "82787",
+            "description": "*IGG SUBCLASS 4",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "86618",
+            "description": "*LYM DISEASE AB",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "86787",
+            "description": "*VARICELLA ZOSTER IGM AB",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86256",
+            "description": "86256 *ANNA-1 (ANTI-HU)",
+            "price": "42.77"
+        },
+        {
+            "cptCode": "86256",
+            "description": "86256 *JO AB",
+            "price": "32.24"
+        },
+        {
+            "cptCode": "86653",
+            "description": "86653 ST LOUIS ENCEPHALITIS IG",
+            "price": "18.42"
+        },
+        {
+            "cptCode": "86694",
+            "description": "*HERPES SIMPLEX IGM AB",
+            "price": "24.51"
+        },
+        {
+            "cptCode": "82150",
+            "description": "*TOTAL AMYLASE",
+            "price": "4.28"
+        },
+        {
+            "cptCode": "87476",
+            "description": "87476 *LYME PCR",
+            "price": "89.49"
+        },
+        {
+            "cptCode": "82150",
+            "description": "*PANCREATIC AMYLASE",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "87799",
+            "description": "87799 *JC POLYOMA VIRUS DNAPCR",
+            "price": "80.41"
+        },
+        {
+            "cptCode": "86652",
+            "description": "*EASTERN EQUINE ENCEPHAL IGM",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86654",
+            "description": "*WESTERN EQUINE ENCEPHAL IGM",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86038",
+            "description": "86038 *ANA SCREEN",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86651",
+            "description": "*CALIFORMIA ENCEPHALITIS IGM",
+            "price": "25.00"
+        },
+        {
+            "cptCode": "85660",
+            "description": "85660 *SICKLE CELL SOLUBILITY",
+            "price": "4.48"
+        },
+        {
+            "cptCode": "87497",
+            "description": "87497 *CMV PCR",
+            "price": "76.25"
+        },
+        {
+            "cptCode": "80307",
+            "description": "80307/G0481 INST TEST DRUG SCR",
+            "price": "300.71"
+        },
+        {
+            "cptCode": "80305",
+            "description": "80305/G0481 CARTR TEST DRG SCR",
+            "price": "242.47"
+        },
+        {
+            "cptCode": "86317",
+            "description": "86317 *DPT ABS",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *B. PARAPERTUSSIS PCR",
+            "price": "65.80"
+        },
+        {
+            "cptCode": "87799",
+            "description": "87799 *BK VIRUS QUANT",
+            "price": "122.72"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 *COXSACKIE A24 IGG",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "86668",
+            "description": "86668 *Francisella AB",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *NOROVIRUS PCR",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "83605",
+            "description": "83605 LACTATE",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "80339",
+            "description": "80339*G0480 1-3ANTIEPILEP CLAS",
+            "price": "75.01"
+        },
+        {
+            "cptCode": "80299",
+            "description": "80299*QUANTATIVE THERPEUTIC",
+            "price": "59.22"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519 NON-INFECTIOUS AGEN BY R",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86625",
+            "description": "86625*CAMPYLOBACTER JEJUNI AB-",
+            "price": "27.97"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *STREP PNEUMO SEROTY #1",
+            "price": "13.24"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *STREP PNEUMO SEROTY #2",
+            "price": "13.24"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *STREP PNEUMO SERO CHG#3",
+            "price": "13.24"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *STREP PNEUMO SERO CHG#4",
+            "price": "13.24"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *STREP PNEUMO SERO CHG#5",
+            "price": "13.24"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *STREP PNEUMO SERO CHG#6",
+            "price": "13.24"
+        },
+        {
+            "cptCode": "86609",
+            "description": "86609 *LISTERIA AB",
+            "price": "45.40"
+        },
+        {
+            "cptCode": "87493",
+            "description": "87493 C.DIFF TOXIN GENE BY PCR",
+            "price": "52.31"
+        },
+        {
+            "cptCode": "80188",
+            "description": "80188 *MYSOLINE LEV(PRIMIDONE)",
+            "price": "75.34"
+        },
+        {
+            "cptCode": "83930",
+            "description": "83930 OSMOLALITY - SERUM",
+            "price": "79.62"
+        },
+        {
+            "cptCode": "83935",
+            "description": "83935 OSMOLALITY - URINE",
+            "price": "79.62"
+        },
+        {
+            "cptCode": "80184",
+            "description": "80184 PHENOBARBITAL LEVEL",
+            "price": "170.09"
+        },
+        {
+            "cptCode": "80333",
+            "description": "80333*3-5 ANTIDE(SEROTO) CLASS",
+            "price": "72.05"
+        },
+        {
+            "cptCode": "80334",
+            "description": "80334*>6 ANTIDE (SEROTO)CLASS",
+            "price": "107.91"
+        },
+        {
+            "cptCode": "84244",
+            "description": "84244 *RENIN",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "85598",
+            "description": "85598 HEX PHOSPHOLIPID NEUT",
+            "price": "25.99"
+        },
+        {
+            "cptCode": "86703",
+            "description": "86703/G0435 HIV RAPID",
+            "price": "111.20"
+        },
+        {
+            "cptCode": "83519",
+            "description": "*83519 NON-INFECTIOUS AGEN BY",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "84479",
+            "description": "84479 T-3 UPTAKE",
+            "price": "133.25"
+        },
+        {
+            "cptCode": "84436",
+            "description": "84436 T-4",
+            "price": "133.25"
+        },
+        {
+            "cptCode": "80198",
+            "description": "80198 THEOPHYLLINE LEVEL",
+            "price": "195.10"
+        },
+        {
+            "cptCode": "87449",
+            "description": "87449 STREP PNUEMO ANTIGEN",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "84443",
+            "description": "84443 THYROID-STIMULAT HORMONE",
+            "price": "299.39"
+        },
+        {
+            "cptCode": "82607",
+            "description": "82607 VITAMIN B-12",
+            "price": "216.15"
+        },
+        {
+            "cptCode": "83491",
+            "description": "83491 *OH-CORTICOSTEROIDS UR",
+            "price": "15.79"
+        },
+        {
+            "cptCode": "83582",
+            "description": "83582 *KETOGENIC STEROIDS UR",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "83586",
+            "description": "83586 *17 KETOSTEROIDS, URINE",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "84703",
+            "description": "84703 PREGNANCY TEST/SERUM",
+            "price": "120.41"
+        },
+        {
+            "cptCode": "80156",
+            "description": "80156 TEGRETOL",
+            "price": "203.32"
+        },
+        {
+            "cptCode": "82365",
+            "description": "82365 *STONE ANALYSIS",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235* ANTI SM AB",
+            "price": "12.01"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235 *ANTI RNP AB",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "83970",
+            "description": "83970 *PTH C-TERMINAL",
+            "price": "27.64"
+        },
+        {
+            "cptCode": "83970",
+            "description": "83970 *PTH INTACT",
+            "price": "27.64"
+        },
+        {
+            "cptCode": "82382",
+            "description": "82382 *CATECHOLAMINE, URINE",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "80203",
+            "description": "80203 *ZONISIMIDE",
+            "price": "28.62"
+        },
+        {
+            "cptCode": "80186",
+            "description": "80186 *DILANTIN, FREE",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "87015",
+            "description": "87015 *MICROSPORIDIA",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "87207",
+            "description": "87207 *MICROSPORIDIA STAIN",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "87207",
+            "description": "87207 *MICROSPORIDIA CHG ONLY",
+            "price": "5.59"
+        },
+        {
+            "cptCode": "84585",
+            "description": "84585 *VMA",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "83835",
+            "description": "83835 *METANEPHRINES, URINE",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "80194",
+            "description": "80194 * QUINIDINE",
+            "price": "30.60"
+        },
+        {
+            "cptCode": "87449",
+            "description": "87449 *LEGIONELLA AG (URINE)",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "87324",
+            "description": "87324 C.DIFF AG SCREEN",
+            "price": "18.42"
+        },
+        {
+            "cptCode": "87449",
+            "description": "87449 CAMPYLOBACTER AG SCREEN",
+            "price": "16.78"
+        },
+        {
+            "cptCode": "87449",
+            "description": "87449 *NORWALK VIRUS (NOROVIRU",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520*MAG ANTIBODY",
+            "price": "27.31"
+        },
+        {
+            "cptCode": "84620",
+            "description": "84620 *D-XYLOSE TEST",
+            "price": "31.26"
+        },
+        {
+            "cptCode": "83497",
+            "description": "83497 *5-HIAA (URINE)",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "85810",
+            "description": "85810 *VISCOSITY, SERUM",
+            "price": "7.90"
+        },
+        {
+            "cptCode": "84311",
+            "description": "84311 *PORPHYRIN SCREEN",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "84106",
+            "description": "84106 *PORPHOBILINOGEN RU",
+            "price": "4.21"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 Bordetella pertussis DNA",
+            "price": "53.30"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255*MYASTHENIA GRAVIS SCREEN",
+            "price": "34.55"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255 *SKELETAL MUSCLE AB",
+            "price": "15.46"
+        },
+        {
+            "cptCode": "80200",
+            "description": "80200 TOBRAMYCIN LEVEL",
+            "price": "201.68"
+        },
+        {
+            "cptCode": "80329",
+            "description": "80329/G0480  SALICYLATE",
+            "price": "148.05"
+        },
+        {
+            "cptCode": "80335",
+            "description": "80335*AMITRIPTYLINE (ELAVIL)",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80324",
+            "description": "80324* 1-2 AMPHETAMINES CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80325",
+            "description": "80325* 3-4 AMPHETAMINES CLASS",
+            "price": "30.60"
+        },
+        {
+            "cptCode": "80335",
+            "description": "80335*DOXEPIN(SINEQUAN)",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80155",
+            "description": "80155 *CAFFEINE LEVEL",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "87340",
+            "description": "87340 HEPATITIS B SURFACE AG",
+            "price": "215.50"
+        },
+        {
+            "cptCode": "82728",
+            "description": "82728 FERRITIN",
+            "price": "226.68"
+        },
+        {
+            "cptCode": "80164",
+            "description": "80164 VALPROIC ACID (DEPAKANE)",
+            "price": "189.50"
+        },
+        {
+            "cptCode": "86160",
+            "description": "86160 C-4 COMPLEMENT",
+            "price": "148.05"
+        },
+        {
+            "cptCode": "82088",
+            "description": "82088 *ALDOSTERONE",
+            "price": "27.31"
+        },
+        {
+            "cptCode": "80329",
+            "description": "80329/G0480 ACETAMINOPHN LEVEL",
+            "price": "220.76"
+        },
+        {
+            "cptCode": "80329",
+            "description": "80329/G0480 1-2ANA NONOP CLASS",
+            "price": "210.23"
+        },
+        {
+            "cptCode": "80330",
+            "description": "80330/G0480 3-5ANA NONOP CLASS",
+            "price": "210.23"
+        },
+        {
+            "cptCode": "80331",
+            "description": "80331/G0480 >6ANA NONOPI CLASS",
+            "price": "210.23"
+        },
+        {
+            "cptCode": "82668",
+            "description": "82668 *ERYTHROPOIETIN",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "82670",
+            "description": "82670 *ESTRADIOL",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "84146",
+            "description": "84146 *PROLACTIN",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "84145",
+            "description": "84145 *PROCALCITONIN",
+            "price": "93.77"
+        },
+        {
+            "cptCode": "84403",
+            "description": "84403 *TESTOSTERONE",
+            "price": "17.44"
+        },
+        {
+            "cptCode": "82677",
+            "description": "82677 *ESTRIOL",
+            "price": "14.15"
+        },
+        {
+            "cptCode": "82677",
+            "description": "82677 *TRIPLE TEST ESTRIOL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "82677",
+            "description": "82677 *ESTRIOL-QUAD SCREEN",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "82677",
+            "description": "82677 *UE3",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "80335",
+            "description": "80335*G0480 IMIPRAMINE LEVEL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83003",
+            "description": "83003 *GROWTH HORMONE",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "83002",
+            "description": "83002 *LH",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "83001",
+            "description": "83001 *FSH",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235*JO-1 ANTIBODY",
+            "price": "34.22"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235*SCLERODERM ANTIBODY",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255 *ANA PROFILE",
+            "price": "57.90"
+        },
+        {
+            "cptCode": "83525",
+            "description": "83525 *INSULIN LEVEL",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "87581",
+            "description": "87581 MYCOPLASMA PNEUMONIAE",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "81025",
+            "description": "81025 ED URINE PREGNANCY TEST",
+            "price": "120.41"
+        },
+        {
+            "cptCode": "86704",
+            "description": "86704 HEPATITIS B CORE-AB TOTL",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "82085",
+            "description": "82085 *ALDOLASE",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "87252",
+            "description": "87252 *COMP. VIRUS CULTURE",
+            "price": "23.36"
+        },
+        {
+            "cptCode": "80307",
+            "description": "80307*/G0481 MEPROBAMATE LEVEL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80307",
+            "description": "80307*/G0481 DRUG SCR IMMUNOAS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "80342",
+            "description": "80342*/G0480 1-3 ANTIPSY CLASS",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86706",
+            "description": "86706 HEPATITIS B SURFACE AB",
+            "price": "195.10"
+        },
+        {
+            "cptCode": "80192",
+            "description": "80192 * PROCAINAMIDE/NAPA",
+            "price": "81.26"
+        },
+        {
+            "cptCode": "84081",
+            "description": "84081  AMNIOSTAT",
+            "price": "102.65"
+        },
+        {
+            "cptCode": "86738",
+            "description": "86738 *MYCLOPLASMA AB,IGM",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "84134",
+            "description": "84134  PREALBUMIN",
+            "price": "100.67"
+        },
+        {
+            "cptCode": "36415",
+            "description": "SPECIAL COLLECTION",
+            "price": "72.05"
+        },
+        {
+            "cptCode": "84702",
+            "description": "84702 BETA HCG-QUANTITATIVE",
+            "price": "195.10"
+        },
+        {
+            "cptCode": "84702",
+            "description": "84702 *TRIPLE TEST HCG",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "84702",
+            "description": "84702 *HCG-QUAD SCREEN",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "84702",
+            "description": "84702 *GENZYME HCG",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "82705",
+            "description": "82705 *FECAL FAT QUALITATIVE",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "84166",
+            "description": "84166 *BENCE-JONES PROTEIN",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "80335",
+            "description": "80335*/G0480 NORTRIPTYLINE LEV",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 ASCA IGA PROMETHEUS IBD",
+            "price": "25.33"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 ASCA IGG PROMTHEUS IBD",
+            "price": "25.33"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 ANCA IGG PROMETHEUS IBD",
+            "price": "25.33"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *ANTI-OMPC IGA PROMETHEU",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *ANTI-CBIR1 PROMETHEUS I",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "88346",
+            "description": "88346 *PANCA IGG PROMETHEUS IB",
+            "price": "103.64"
+        },
+        {
+            "cptCode": "88350",
+            "description": "88350 *DNASE DIGESTED PROMETHE",
+            "price": "47.71"
+        },
+        {
+            "cptCode": "82657",
+            "description": "82657 *TPMT ENZ ACTIV RBC PROM",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "82542",
+            "description": "82542 *QUANT HPLC PROMTHEUS TP",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "82542",
+            "description": "82542 *QUANT HPLC 6-TGN PROMET",
+            "price": "47.71"
+        },
+        {
+            "cptCode": "82542",
+            "description": "82542 *QUANT HPLC 6-MMPN PROME",
+            "price": "47.71"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *HACA INFLIX PROMETHEUS",
+            "price": "36.19"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *SER INFLIXIMAB LEVEL PR",
+            "price": "44.42"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *AMG BY NEPH PROMTHEUS",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *HA QUANT PROMTHEUS FIBR",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "83520",
+            "description": "*83520 TIMP-1 QUANT PROMTHEUS",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "83520",
+            "description": "*83520 A-GLIADIN PROMTHEUS CEL",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "83520",
+            "description": "*83520 A-GLIANDIN IGG PROMTHEU",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "83520",
+            "description": "*83520 Ahu-tTG IGA PROMTHEUS C",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "88346",
+            "description": "*88346 A-EMA IGA BY FA PROMTHE",
+            "price": "103.64"
+        },
+        {
+            "cptCode": "82784",
+            "description": "*82784 TOT IGA BY NEPH PROMTHE",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "83013",
+            "description": "*83013 H PYLORI BREATH TEST",
+            "price": "68.43"
+        },
+        {
+            "cptCode": "82397",
+            "description": "*82397 BDNF PROMETHEUS IBS DIA",
+            "price": "9.29"
+        },
+        {
+            "cptCode": "82397",
+            "description": "*82397 NGAL PROMETHEUS IBS DIA",
+            "price": "9.29"
+        },
+        {
+            "cptCode": "82397",
+            "description": "*82397 INTERLEUKIN 1 BETA PROM",
+            "price": "9.29"
+        },
+        {
+            "cptCode": "82397",
+            "description": "*82397 TWEAK PROMETHEUS IBS DI",
+            "price": "9.29"
+        },
+        {
+            "cptCode": "82397",
+            "description": "*82397 GRO ALPHA PROMETHEUS IB",
+            "price": "9.29"
+        },
+        {
+            "cptCode": "83520",
+            "description": "*83520 ANTICBIR1 PROMETHEUS IB",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "82656",
+            "description": "82656 *PANCREATIC ELASTASE",
+            "price": "73.70"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *QUANT IMMUNO NON-INF AB",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *FREE KAPPA SERUM",
+            "price": "5.92"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *FREE LAMBDA SERUM",
+            "price": "5.92"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *FREE KAPPA URINE",
+            "price": "5.92"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *FREE LAMBDA URINE",
+            "price": "5.92"
+        },
+        {
+            "cptCode": "83883",
+            "description": "83883 *RETINOL BINDING PROTEIN",
+            "price": "25.72"
+        },
+        {
+            "cptCode": "80366",
+            "description": "80366*/G0480 PREGABALIN",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83655",
+            "description": "83655 *LEAD,BLOOD",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "86331",
+            "description": "*86331 FAENIA RETIVIRGULA",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 *C. TRACHOMATIS IGG",
+            "price": "63.17"
+        },
+        {
+            "cptCode": "86632",
+            "description": "86632 *C.TRACHOMATIS IGM",
+            "price": "8.69"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *VARICELLA ZOSTER DNA-QL",
+            "price": "87.84"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519 *21-HYDROXYLASE AB",
+            "price": "9.20"
+        },
+        {
+            "cptCode": "86603",
+            "description": "86603 *ADENOVIRUS AB",
+            "price": "22.68"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SEAFOOD ALLEGAN 1",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 SEAFFOD ALLERGAN 2",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 SEAFOOD ALLERGEN #3",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SEAFOOD ALLERGEN #4",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SEAFOOD ALLERGEN #5",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SHELLFISH ALLERGEN #1",
+            "price": "6.22"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SHELLFISH ALLERGEN #2",
+            "price": "6.22"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SHELLFISH ALLERGEN #3",
+            "price": "3.29"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SHELLFISH ALLERGEN #4",
+            "price": "6.22"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SHELLFISH #5",
+            "price": "6.22"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SHELLFISH ALLERGEN #6",
+            "price": "6.22"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALMOND ALLERGEN IGE",
+            "price": "12.46"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 * APPLE ALLERGEN IGE",
+            "price": "8.39"
+        },
+        {
+            "cptCode": "86651",
+            "description": "86651 *ARBO VIRUS PANEL 1",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86651",
+            "description": "86651 *ARBOVIRUS AB PANEL 2",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86652",
+            "description": "86652 *ARBOVIRUS AB PANEL 3",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86652",
+            "description": "86652 *ARBOVIRUS AB PANEL 4",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86653",
+            "description": "86653 *ARBOVIRUS AB PANEL 5",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86653",
+            "description": "86653 *ARBOVIRUS AB PANEL 6",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86654",
+            "description": "86654 *ARBOVIRUS AB PANEL 7",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86654",
+            "description": "86654 *ARBOVIRUS AB PANEL 8",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *MILK ALLERGEN",
+            "price": "7.45"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *PEANUT ALLERGEN",
+            "price": "9.21"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *CASEIN/COW MILK ALLERGE",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *BEEF ALLERGEN IGE",
+            "price": "21.13"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *CORN ALLERGEN",
+            "price": "8.80"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *HAZELNUT ALLERGEN",
+            "price": "26.16"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 1",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 2",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 3",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 4",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 5",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 6",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 7",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86612",
+            "description": "86612 *BLASTOMYCES AD ID",
+            "price": "5.84"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 8",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 9",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 10",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 11",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 12",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 13",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 14",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 15",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 16",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 17",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 18",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 19",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 20",
+            "price": "8.49"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 21",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 22",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 23",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *ALLERGEN PN CHG 24",
+            "price": "5.20"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *PORK ALLERGEN",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *SOYBEAN ALLERGEN",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *TUNA ALLERGEN",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *WHEAT ALLERGEN IGE",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86001",
+            "description": "86001 *WHEAT ALLERGEN IGG",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *WHITEFISH ALLERGEN",
+            "price": "8.06"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *WHOLE EGG",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "82570",
+            "description": "82570 *SO UR CREAT",
+            "price": "4.94"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *EGG WHITE ALLERGEN",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *EGG YOLK ALLERGEN",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *HSV 8 DNA, QUAL PCR",
+            "price": "67.02"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *NUT ALLERGEN #1",
+            "price": "4.62"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *NUT ALLERGEN #2",
+            "price": "4.62"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *NUT ALLERGEN #3",
+            "price": "4.62"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *NUT ALLERGEN #4",
+            "price": "4.62"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *NUT ALLERGEN #5",
+            "price": "4.62"
+        },
+        {
+            "cptCode": "87798",
+            "description": "87798 *EBV PCR",
+            "price": "77.32"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235 *ANTI-CENTROMERE AB",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "80168",
+            "description": "80168 *ZARONTIN LEVEL",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "83916",
+            "description": "83916 *OLIGOCLONAL BANDS",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "80338",
+            "description": "80338*/G0480 ANTIDEPRES(OTHER)",
+            "price": "54.61"
+        },
+        {
+            "cptCode": "84207",
+            "description": "84207 *VITAMIN B6",
+            "price": "75.01"
+        },
+        {
+            "cptCode": "84206",
+            "description": "84206 *PROINSULIN",
+            "price": "16.32"
+        },
+        {
+            "cptCode": "86705",
+            "description": "86705 HEPATITIS B CORE AB-IGM",
+            "price": "63.50"
+        },
+        {
+            "cptCode": "86747",
+            "description": "86747 *PARVOVIRUS",
+            "price": "40.14"
+        },
+        {
+            "cptCode": "82955",
+            "description": "82955 *G-6 PD",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "80335",
+            "description": "80335*/G0480 DESIPRAMINE LEVEL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83036",
+            "description": "83036 HGB A1C (GLYCOHEMOGLOB)",
+            "price": "21.71"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519 *ACETYCHOLINE RECEP AB",
+            "price": "19.35"
+        },
+        {
+            "cptCode": "84630",
+            "description": "84630 *ZINC LEVEL (BLOOD)",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "83915",
+            "description": "83915 *5-NUCLEOTIDASE",
+            "price": "16.12"
+        },
+        {
+            "cptCode": "82105",
+            "description": "82105 *ALPHA FETO PROTEIN",
+            "price": "16.12"
+        },
+        {
+            "cptCode": "82105",
+            "description": "82105 *TRIPLE TEST AFP",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "82105",
+            "description": "82105 *AFP-QUAD SCREEN",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "82105",
+            "description": "82105 *GENZYME AFP",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "82390",
+            "description": "82390 *CERULOPLASMIN",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "84590",
+            "description": "84590 *VITAMIN A",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "84591",
+            "description": "84591 *BETA-GAMMA TOCOPHEROL",
+            "price": "7.72"
+        },
+        {
+            "cptCode": "86146",
+            "description": "86146*BETA 2 GLYCOPROTEIN I AB",
+            "price": "55.93"
+        },
+        {
+            "cptCode": "82397",
+            "description": "82397* PTH RELATED PROTEIN",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516* GLIADIN AB",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "80359",
+            "description": "80359*METHYLENEDIOXYAMPHETAMIN",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86738",
+            "description": "86738 * M PNEUMONIAE IGM AB",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516*TISSUE TRANSGLUTAMNSE AB",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "87521",
+            "description": "87521 *HCV RNA PCR",
+            "price": "65.80"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 * HANTAVIRUS",
+            "price": "57.58"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519 * GAD AB",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86701",
+            "description": "86701 SUDS HIV",
+            "price": "217.80"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 * GANGLIOSIDE GM1 AB",
+            "price": "82.25"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 * HISTONE AB",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "84481",
+            "description": "84481 * FREE T3",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "87902",
+            "description": "87902 * HCV GENOTYPE",
+            "price": "173.05"
+        },
+        {
+            "cptCode": "86645",
+            "description": "86645 * CMV AB IGM",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86695",
+            "description": "86695 *HERPES SIMPLEX 1 IGG AB",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86694",
+            "description": "86694 *HERPES SIMPLEX 1 IGM AB",
+            "price": "10.36"
+        },
+        {
+            "cptCode": "86696",
+            "description": "86696 *HERPES SIMPLEX 2 IGG AB",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "86341",
+            "description": "86341 * ISLET CELL AB",
+            "price": "35.53"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235 * SS-A AB",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235 * SS-B AB",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "86694",
+            "description": "86694 *HERPES SIMPLEX 2 IGM AB",
+            "price": "10.36"
+        },
+        {
+            "cptCode": "80156",
+            "description": "80156 *CARBAMAZEPINE 10-11 EPO",
+            "price": "26.65"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 * POLIOVIRUS TYPE 1 AB",
+            "price": "10.64"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 * POLIOVIRUS TYPE 2 AB",
+            "price": "10.64"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 * POLIOVIRUS TYPE 3 AB",
+            "price": "10.64"
+        },
+        {
+            "cptCode": "83873",
+            "description": "83873 * MYELIN BASIC PROTEIN",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "86235",
+            "description": "86235 * ENA AB",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86156",
+            "description": "86156 *COLD AGGLUTININS",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "86762",
+            "description": "86762 * RUBELLA AB IGM",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86777",
+            "description": "86777 * TOXOPLASMA AB IGG",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "86778",
+            "description": "86778 * TOXOPLASMA AB IGM",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "86644",
+            "description": "86644 * CMV AB IGG",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "87491",
+            "description": "87491 * CHLAMYDIA TRACH UR DNA",
+            "price": "23.69"
+        },
+        {
+            "cptCode": "87591",
+            "description": "87591 * NEISSERIA GONOR UR DNA",
+            "price": "25.66"
+        },
+        {
+            "cptCode": "83663",
+            "description": "83663 FETAL LUNG MATURITY",
+            "price": "175.36"
+        },
+        {
+            "cptCode": "83874",
+            "description": "83874 * MYOGLOBIN URINE QUANT",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "80201",
+            "description": "80201 * TOPIRAMATE",
+            "price": "15.13"
+        },
+        {
+            "cptCode": "86340",
+            "description": "86340 * INTRINSIC FACTOR AB",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "86148",
+            "description": "86148 *PHOSPHATIDYL SERINE IGA",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86148",
+            "description": "86148 *PHOSPHATIDYL SERINE IGM",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86148",
+            "description": "86148 *PHOSPHATIDYL SERINE IGG",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86336",
+            "description": "86336 *INHIBIN A-QUAD SCREEN",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86757",
+            "description": "86757 *RICKETTSIA ABS #1",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "86757",
+            "description": "86757 *RICKETTSIA AB CHG #2",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "86757",
+            "description": "86757 *RICKETTSIA AB CHG #3",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *CO TICK FEVER",
+            "price": "27.88"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *CO TICK FEVER AB 2",
+            "price": "27.88"
+        },
+        {
+            "cptCode": "86638",
+            "description": "86638 *COXIELL BURNETTI IGG",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "86638",
+            "description": "86638 *COXIELLA BURNETTI IGG 2",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *CRAYFISH ALLERGEN",
+            "price": "5.56"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *DOG DANDER ALLERGEN",
+            "price": "8.84"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *EGG WHITE ALLERGEN IGE",
+            "price": "5.45"
+        },
+        {
+            "cptCode": "86003",
+            "description": "86003 *EGG YOLK ALLERGEN IGE",
+            "price": "7.24"
+        },
+        {
+            "cptCode": "86638",
+            "description": "86638 *COXIELLA BRUNETTI #3",
+            "price": "17.66"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 NEOPLASTIC/PARANEOPLASTI",
+            "price": "6.91"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519 NEOPLASTIC/PARANEOPLASTI",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520*NEOSENSORY NEUROPATHY #2",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86757",
+            "description": "86757 *RICKETTSIA AB CHG #4",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "86000",
+            "description": "86000 *SALMONELLA ABS #1",
+            "price": "4.61"
+        },
+        {
+            "cptCode": "86000",
+            "description": "86000 *SALMONELLA ABS #2",
+            "price": "4.61"
+        },
+        {
+            "cptCode": "86000",
+            "description": "86000 *SALMONELLA ABS #3",
+            "price": "4.61"
+        },
+        {
+            "cptCode": "86000",
+            "description": "86000 *SALMONELLA ABS #4",
+            "price": "4.61"
+        },
+        {
+            "cptCode": "86340",
+            "description": "86340 *INTRINSIC FACTOR AB",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86768",
+            "description": "86768 *SALMONELLA AB CHG #5",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87517",
+            "description": "87517 *HEP B VIRUS PCR",
+            "price": "36.31"
+        },
+        {
+            "cptCode": "83664",
+            "description": "83664 LAMELLAR BODIES",
+            "price": "29.28"
+        },
+        {
+            "cptCode": "87901",
+            "description": "87901 *REFLEX HIV1 GENOTYPING",
+            "price": "173.05"
+        },
+        {
+            "cptCode": "87501",
+            "description": "87501 *INFLUENZA A BY PCR",
+            "price": "40.30"
+        },
+        {
+            "cptCode": "87501",
+            "description": "87501 *INFLUENZA H1N1 BY PCR",
+            "price": "40.30"
+        },
+        {
+            "cptCode": "87149",
+            "description": "87149 *COCCIDIO IMM DNA PROBE",
+            "price": "66.95"
+        },
+        {
+            "cptCode": "86317",
+            "description": "86317 *TETNUS ANTI-TOXIN AB",
+            "price": "10.68"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 *TISSUE TRANSGLUTAMINASE",
+            "price": "21.64"
+        },
+        {
+            "cptCode": "87149",
+            "description": "87149 OrgIDM",
+            "price": "45.07"
+        },
+        {
+            "cptCode": "87149",
+            "description": "87149 Molecular Resistance Mar",
+            "price": "45.07"
+        },
+        {
+            "cptCode": "80159",
+            "description": "80159 *CLOZAPINE",
+            "price": "32.57"
+        },
+        {
+            "cptCode": "86695",
+            "description": "86695 *HSV IGM TITER",
+            "price": "20.25"
+        },
+        {
+            "cptCode": "82131",
+            "description": "82131 *CYSTINE",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "82139",
+            "description": "82139 *AMINO ACID SCR. (PLASMA",
+            "price": "7.24"
+        },
+        {
+            "cptCode": "83090",
+            "description": "83090 *HOMOCYSTEINE",
+            "price": "47.05"
+        },
+        {
+            "cptCode": "82379",
+            "description": "82379 * CARNITINE",
+            "price": "6.59"
+        },
+        {
+            "cptCode": "83150",
+            "description": "83150 *HOMOVANILLIC ACID URINE",
+            "price": "17.19"
+        },
+        {
+            "cptCode": "82024",
+            "description": "82024 *ACTH",
+            "price": "25.99"
+        },
+        {
+            "cptCode": "82017",
+            "description": "82017 *ACYLCARNITINE",
+            "price": "6.59"
+        },
+        {
+            "cptCode": "82010",
+            "description": "82010 *BETA HYDROXY BUTYRATE",
+            "price": "21.26"
+        },
+        {
+            "cptCode": "86762",
+            "description": "86762 RUBELLA",
+            "price": "101.33"
+        },
+        {
+            "cptCode": "82380",
+            "description": "82380 *CAROTENE",
+            "price": "6.25"
+        },
+        {
+            "cptCode": "88262",
+            "description": "88262 *CHROMOSOME ANALYSIS",
+            "price": "180.95"
+        },
+        {
+            "cptCode": "82941",
+            "description": "82941 *GASTRIN",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "82938",
+            "description": "82938 *GASTRIN AFTER SECRETIN",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "83498",
+            "description": "83498 *17 HYDROXY PROGESTERONE",
+            "price": "25.00"
+        },
+        {
+            "cptCode": "82384",
+            "description": "82384 *CATECHOLAMINES,PLASMA",
+            "price": "27.64"
+        },
+        {
+            "cptCode": "80150",
+            "description": "80150 * AMIKACIN LEVEL",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "84066",
+            "description": "84066 *PROSTATIC ACID PHOS",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "82785",
+            "description": "82785 *IGE",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "83825",
+            "description": "83825 *MERCURY (BLOOD)",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86709",
+            "description": "86709 HEPATITIS A ANTIBODY-IGM",
+            "price": "216.15"
+        },
+        {
+            "cptCode": "83015",
+            "description": "83015 *HEAVY METAL SCR (URINE)",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "81025",
+            "description": "81025 PREGNANCY TEST /URINE",
+            "price": "120.41"
+        },
+        {
+            "cptCode": "83519",
+            "description": "83519* APLHA SUBUNIT",
+            "price": "42.77"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 *ANTI-GLOMERULAR BM AB",
+            "price": "23.69"
+        },
+        {
+            "cptCode": "82088",
+            "description": "82088 *ALDOSTERONE (URINE)",
+            "price": "30.27"
+        },
+        {
+            "cptCode": "86300",
+            "description": "86300 *CA 27.29",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86300",
+            "description": "86300 *CA 15-3",
+            "price": "17.44"
+        },
+        {
+            "cptCode": "80175",
+            "description": "80175 *LAMICTAL",
+            "price": "26.98"
+        },
+        {
+            "cptCode": "80171",
+            "description": "80171 * GABAPENTIN BLOOD",
+            "price": "35.20"
+        },
+        {
+            "cptCode": "86677",
+            "description": "86677 *HELICOBACTER PYLORI AB",
+            "price": "42.11"
+        },
+        {
+            "cptCode": "86677",
+            "description": "86677 *HELIOBACTER IGM",
+            "price": "10.25"
+        },
+        {
+            "cptCode": "84202",
+            "description": "84202 *FREE ERYTHRO,PROTOPORPH",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "86376",
+            "description": "86376 *LIV/KID MICROSOMAL AB",
+            "price": "39.81"
+        },
+        {
+            "cptCode": "87340",
+            "description": "87340 *HBSAG CONFIRMATION",
+            "price": "26.98"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *ANTI-NEURONAL AB",
+            "price": "62.51"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520*GM1 ANTIBODY",
+            "price": "26.98"
+        },
+        {
+            "cptCode": "86332",
+            "description": "86332 *CIQ BINDING IMM COMPLEX",
+            "price": "28.62"
+        },
+        {
+            "cptCode": "86332",
+            "description": "86332 *C3d IMMUNE COMPLEX",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "86332",
+            "description": "86332 *RAJI CELL IMM. COMPLEX",
+            "price": "35.20"
+        },
+        {
+            "cptCode": "87278",
+            "description": "87278 *LEGIONELLA AG (DFA)",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520*ANTI-RIBOSOMAL P PROT AB",
+            "price": "41.45"
+        },
+        {
+            "cptCode": "87490",
+            "description": "87490 *CHLAMYDIA (DNA PROBE)",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "87486",
+            "description": "87486 *CHLAMYDIA PNEUMONIA PCR",
+            "price": "100.67"
+        },
+        {
+            "cptCode": "86780",
+            "description": "86780 *FTA",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "83874",
+            "description": "83874 *URINE MYOGLOBIN",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "87529",
+            "description": "87529 HSV-1 DNA PCR",
+            "price": "136.86"
+        },
+        {
+            "cptCode": "87529",
+            "description": "87529*HSV PCR",
+            "price": "74.03"
+        },
+        {
+            "cptCode": "87529",
+            "description": "87529 HSV-2 DNA PCR",
+            "price": "136.86"
+        },
+        {
+            "cptCode": "84202",
+            "description": "84202 *ZINC PROTOPORPHYRIN",
+            "price": "36.85"
+        },
+        {
+            "cptCode": "87536",
+            "description": "87536 *HIV-1 RNA",
+            "price": "57.25"
+        },
+        {
+            "cptCode": "87532",
+            "description": "87532 *HERPES VIRUS 6 DNA PCR",
+            "price": "56.46"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *HERPES VIRUS 6 IGG",
+            "price": "11.28"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *HERPES VIRUS 6 IGM",
+            "price": "11.28"
+        },
+        {
+            "cptCode": "86592",
+            "description": "86592 *CSF VDRL",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "86592",
+            "description": "86592 *TORCH RPR",
+            "price": "5.26"
+        },
+        {
+            "cptCode": "86225",
+            "description": "86225 *ANTI DNA ANTIBODY",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "86334",
+            "description": "86334 *IMMUNOELECTRO. (SERUM)",
+            "price": "25.66"
+        },
+        {
+            "cptCode": "82507",
+            "description": "82507*CITRIC ACID",
+            "price": "64.81"
+        },
+        {
+            "cptCode": "82525",
+            "description": "82525 *COPPER",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "80320",
+            "description": "80320/G0480 BLOOD ALCOHOL",
+            "price": "248.40"
+        },
+        {
+            "cptCode": "80320",
+            "description": "80320*/G0480 ALCHOHOLS CLASS",
+            "price": "194.11"
+        },
+        {
+            "cptCode": "84466",
+            "description": "84466 TRANSFERRIN",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "86603",
+            "description": "86603 *ADENOVIRUS ANTIBODY",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "86336",
+            "description": "86336 *INHIBIN",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "86337",
+            "description": "86337 *INSULIN AUTOANTIBODIES",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "86335",
+            "description": "86335 *IMMUNOELECTROPHOR URINE",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "82103",
+            "description": "82103 *ALPHA 1 ANTITRYPSIN",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "86710",
+            "description": "86710 *INFLUENZA AB",
+            "price": "27.31"
+        },
+        {
+            "cptCode": "80202",
+            "description": "80202 VANCOMYCIN LEVEL",
+            "price": "203.32"
+        },
+        {
+            "cptCode": "82139",
+            "description": "82139 *AMINO ACID SCREEN-URINE",
+            "price": "139.25"
+        },
+        {
+            "cptCode": "82330",
+            "description": "82330 *IONIZED CALCIUM",
+            "price": "15.13"
+        },
+        {
+            "cptCode": "82595",
+            "description": "82595  *CRYOGLOBULINS",
+            "price": "7.57"
+        },
+        {
+            "cptCode": "86753",
+            "description": "86753 *AMOEBIC ANTIBODY",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 *CMV CULTURE",
+            "price": "68.43"
+        },
+        {
+            "cptCode": "87081",
+            "description": "87081 *LEGIONELLA CULTURE",
+            "price": "40.47"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 *RAPID RESP VIRUS SCREEN",
+            "price": "21.06"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIRUS REFLEX",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIR CHG2",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIR CHRG 3",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIR CHRG 4",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIR CHRG 5",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIR CHRG 6",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87140",
+            "description": "87140 *RAPID RESP VIR CHRG 7",
+            "price": "10.31"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 * HSV VARICELLA ZOSTER",
+            "price": "9.71"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 *HSV VZ CHG ONLY",
+            "price": "9.71"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 *HSV VARICELLA ZOSTER CU",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87254",
+            "description": "87254 *HSV VZ CULT CHG #2",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87273",
+            "description": "87273 *HSV VZ CHG #3",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87274",
+            "description": "87274 *HSV VZ CHG #4",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "87290",
+            "description": "87290 *HSV VZ CHG #5",
+            "price": "8.23"
+        },
+        {
+            "cptCode": "87280",
+            "description": "87280 *RSV DIRECT IF",
+            "price": "10.11"
+        },
+        {
+            "cptCode": "87290",
+            "description": "87290 *HSV VARICELLA ZOSTER CU",
+            "price": "9.46"
+        },
+        {
+            "cptCode": "84588",
+            "description": "84588 *ANTIDIURETIC HORMONE",
+            "price": "34.55"
+        },
+        {
+            "cptCode": "86713",
+            "description": "86713 *LEGIONELLA AB PANEL",
+            "price": "15.13"
+        },
+        {
+            "cptCode": "86713",
+            "description": "86713 LEGIONELLA IGG AB",
+            "price": "15.46"
+        },
+        {
+            "cptCode": "86713",
+            "description": "86713 LEGIONELLA IGM AB",
+            "price": "15.46"
+        },
+        {
+            "cptCode": "86713",
+            "description": "86713 LEGIONELLA IGA AB",
+            "price": "15.46"
+        },
+        {
+            "cptCode": "86376",
+            "description": "86376 *ANTI-MICROSOMAL AB",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "86804",
+            "description": "86804 *HCV RIBA",
+            "price": "41.78"
+        },
+        {
+            "cptCode": "82608",
+            "description": "82608 *VIT B-12 BINDING CAP",
+            "price": "39.15"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 *CHLAMYDIA AB PANEL",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 CHLAMYDIA TRACH IGG AB",
+            "price": "37.84"
+        },
+        {
+            "cptCode": "86632",
+            "description": "86632 CHLAMYDIA TRACH IGM AB",
+            "price": "37.84"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 CHLAMYDIA TRACH IGA AB",
+            "price": "37.84"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 *CHLAMYDIA TRACH IGM QD",
+            "price": "7.24"
+        },
+        {
+            "cptCode": "86632",
+            "description": "86632 *CHLAMYDIA TRACH IGM",
+            "price": "8.67"
+        },
+        {
+            "cptCode": "83690",
+            "description": "83690 *LIPASE (URINE)",
+            "price": "15.46"
+        },
+        {
+            "cptCode": "86255",
+            "description": "83516 *ANTI-MITOCHODRIAL AB",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255 *ENDOMYSIAL AB IGA",
+            "price": "12.46"
+        },
+        {
+            "cptCode": "86256",
+            "description": "86256 *ENDOMYSIAL AB TITER",
+            "price": "13.25"
+        },
+        {
+            "cptCode": "83661",
+            "description": "83661 *L/S RATIO PANEL",
+            "price": "153.68"
+        },
+        {
+            "cptCode": "85300",
+            "description": "85300 *ANTITHROMBIN III-ACTIV.",
+            "price": "52.31"
+        },
+        {
+            "cptCode": "80197",
+            "description": "80197 *TACROLIMUS",
+            "price": "25.99"
+        },
+        {
+            "cptCode": "82150",
+            "description": "82150 *AMYLASE ISOENZYMES",
+            "price": "15.79"
+        },
+        {
+            "cptCode": "86689",
+            "description": "86689 *WESTERN BLOT",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "82626",
+            "description": "82626 *DHEA",
+            "price": "22.04"
+        },
+        {
+            "cptCode": "80158",
+            "description": "80158 *CYLOSPORINE LEVEL",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "84681",
+            "description": "84681 *C-PEPTIDE",
+            "price": "15.79"
+        },
+        {
+            "cptCode": "86301",
+            "description": "86301 *CA 19-9",
+            "price": "20.07"
+        },
+        {
+            "cptCode": "87490",
+            "description": "87490 *CHLAMYDIA/GC (PROBE)",
+            "price": "16.12"
+        },
+        {
+            "cptCode": "82164",
+            "description": "82164 *ANGIOTENSIN-1-CONV.ENZ",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "82693",
+            "description": "82693 *ETHYLENE GLYCOL",
+            "price": "25.00"
+        },
+        {
+            "cptCode": "85300",
+            "description": "85300 *LUPUS TYPE ANTICOAGULAN",
+            "price": "21.39"
+        },
+        {
+            "cptCode": "83505",
+            "description": "83505 *HYDROXYPROLINE (URINE)",
+            "price": "27.97"
+        },
+        {
+            "cptCode": "84439",
+            "description": "84439 FREE T4",
+            "price": "91.79"
+        },
+        {
+            "cptCode": "83945",
+            "description": "83945 *OXALATE (URINE)",
+            "price": "10.86"
+        },
+        {
+            "cptCode": "83060",
+            "description": "83060 *SULFHEMOGLOBIN",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86256",
+            "description": "86256 *ANTI-NEUTROPHIL CYTO AB",
+            "price": "28.62"
+        },
+        {
+            "cptCode": "84442",
+            "description": "84442 *THYROXINE BINDING GLOB",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *ARBOVIRUS",
+            "price": "41.45"
+        },
+        {
+            "cptCode": "86000",
+            "description": "86000 *ROCKY MTN SPOTTED FEVER",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "85210",
+            "description": "85210 *COAG FACTOR II",
+            "price": "52.64"
+        },
+        {
+            "cptCode": "85301",
+            "description": "85301 *ANTITHROMBIN III-QUANT",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "85220",
+            "description": "85220 *COAG FACTOR V",
+            "price": "47.38"
+        },
+        {
+            "cptCode": "85230",
+            "description": "85230 *COAG FACTOR VII",
+            "price": "47.38"
+        },
+        {
+            "cptCode": "85247",
+            "description": "85247 *VON WILLEBRAND MULTI.",
+            "price": "67.45"
+        },
+        {
+            "cptCode": "85250",
+            "description": "85250 *COAG FACTOR IX",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "85260",
+            "description": "85260 *COAG FACTOR X",
+            "price": "52.64"
+        },
+        {
+            "cptCode": "85260",
+            "description": "**85260 FXA CHROMOGENIC SO",
+            "price": "30.93"
+        },
+        {
+            "cptCode": "85270",
+            "description": "85270 *COAG FACTOR XI",
+            "price": "52.64"
+        },
+        {
+            "cptCode": "85280",
+            "description": "85280 *COAG FACTOR XII",
+            "price": "52.64"
+        },
+        {
+            "cptCode": "85290",
+            "description": "85290 *COAG FACTOR XIII",
+            "price": "32.57"
+        },
+        {
+            "cptCode": "86727",
+            "description": "86727*LYMPHOCYTIC CHORIOMENIN",
+            "price": "31.58"
+        },
+        {
+            "cptCode": "85557",
+            "description": "85557 *OSMOTIC FRAGILITY",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "85245",
+            "description": "85245 *RISTOCETIN COFACTOR",
+            "price": "52.64"
+        },
+        {
+            "cptCode": "85307",
+            "description": "85307 *ACTIVATE PROTEIN C RESI",
+            "price": "41.45"
+        },
+        {
+            "cptCode": "84425",
+            "description": "84425 *VITAMIN B1",
+            "price": "58.56"
+        },
+        {
+            "cptCode": "82157",
+            "description": "82157 *ANDROSTENEDIONE",
+            "price": "22.37"
+        },
+        {
+            "cptCode": "84275",
+            "description": "84275 *LIPID ASSOC SIALIC ACID",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "84482",
+            "description": "84482 *REVERSE T3",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "82232",
+            "description": "82232 *BETA 2 MICROGLOBULIN",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "82108",
+            "description": "82108 *ALUMINUM",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "83516",
+            "description": "83516 *ACTIN ANTIBODY IGG",
+            "price": "12.17"
+        },
+        {
+            "cptCode": "85420",
+            "description": "85420 *PLASMINOGEN",
+            "price": "42.11"
+        },
+        {
+            "cptCode": "85540",
+            "description": "85540 *LEUKOCYTE ALK PHOS STAI",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "86160",
+            "description": "86160 *C1 ESTERASE INHIBITOR",
+            "price": "28.29"
+        },
+        {
+            "cptCode": "82634",
+            "description": "82634 *11-DEOXYCORTISOL",
+            "price": "25.99"
+        },
+        {
+            "cptCode": "83921",
+            "description": "83921 *METHYLMALONIC ACID",
+            "price": "57.25"
+        },
+        {
+            "cptCode": "87350",
+            "description": "87350 *HEPATITIS B E ANTIGEN",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86707",
+            "description": "86707 *HEPATITIS B E ANTIBODY",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86692",
+            "description": "86692 *HEPATITIS B DELTA AB",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "84600",
+            "description": "84600 *VOLATILE SCREEN",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "84600",
+            "description": "84600 *METHANOL",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "84597",
+            "description": "84597 *VITAMIN K1",
+            "price": "76.00"
+        },
+        {
+            "cptCode": "84600",
+            "description": "84600 *ISOPROPANOL",
+            "price": "19.74"
+        },
+        {
+            "cptCode": "82010",
+            "description": "82010 *ACETONE LEVEL",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "85302",
+            "description": "85302 *PROTEIN C",
+            "price": "50.67"
+        },
+        {
+            "cptCode": "85306",
+            "description": "85306 *PROTEIN S AG",
+            "price": "20.07"
+        },
+        {
+            "cptCode": "83527",
+            "description": "83527 *INSULIN, FREE",
+            "price": "32.57"
+        },
+        {
+            "cptCode": "87109",
+            "description": "87109 *UREAPLASMA CULTURE",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86800",
+            "description": "86800 *ANTI-THYROGLOBULIN AB",
+            "price": "14.81"
+        },
+        {
+            "cptCode": "86813",
+            "description": "86813 *HLA TYPING",
+            "price": "151.34"
+        },
+        {
+            "cptCode": "86022",
+            "description": "86022 *PLATELET AB",
+            "price": "22.04"
+        },
+        {
+            "cptCode": "82482",
+            "description": "82482 *RBC CHOLINESTERASE",
+            "price": "12.83"
+        },
+        {
+            "cptCode": "86022",
+            "description": "86022 *SEROTONIN RELEASE ASSAY",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "86022",
+            "description": "86022 *SEROTONIN RELEASE ASSAY",
+            "price": "39.48"
+        },
+        {
+            "cptCode": "82638",
+            "description": "82638 *DIBUCAINE NUMBER",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "82480",
+            "description": "82480 *PSEUDOCHOLINESTERASE",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "83864",
+            "description": "83864 *MUCOPOLYSACCHARIDES",
+            "price": "42.44"
+        },
+        {
+            "cptCode": "80358",
+            "description": "80358*/G0480 METHADONE",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "82043",
+            "description": "82043 *MICROALBUMIN QUANTATIVE",
+            "price": "5.59"
+        },
+        {
+            "cptCode": "82043",
+            "description": "82043 *MICROALBUMIN, QUANT.",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "84702",
+            "description": "84702 *BETA-HCG (TUMOR MARKER)",
+            "price": "25.72"
+        },
+        {
+            "cptCode": "82105",
+            "description": "82105 *ALPHA FETOPROTEIN-MATER",
+            "price": "17.44"
+        },
+        {
+            "cptCode": "86631",
+            "description": "86631 *CHLAMYDIA AB IGG",
+            "price": "12.83"
+        },
+        {
+            "cptCode": "84445",
+            "description": "84445 *THYROID STIMUL. IMMUNOG",
+            "price": "46.06"
+        },
+        {
+            "cptCode": "86000",
+            "description": "86000 *TULAREMIA AGGLUTININS",
+            "price": "6.91"
+        },
+        {
+            "cptCode": "83993",
+            "description": "83993 *CALPROTECTIN",
+            "price": "60.87"
+        },
+        {
+            "cptCode": "87206",
+            "description": "87206 *BORD. PERTUSSIS SMEAR",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "84166",
+            "description": "84166 *ELECTROPHORESIS (URINE)",
+            "price": "19.08"
+        },
+        {
+            "cptCode": "86304",
+            "description": "86304 *CA-125",
+            "price": "19.08"
+        },
+        {
+            "cptCode": "86735",
+            "description": "86735 *MUMPS AB",
+            "price": "25.00"
+        },
+        {
+            "cptCode": "82308",
+            "description": "82308 *CALCITONIN",
+            "price": "20.73"
+        },
+        {
+            "cptCode": "87109",
+            "description": "87109 *MYCOPLASMA CULTURE",
+            "price": "33.89"
+        },
+        {
+            "cptCode": "86147",
+            "description": "86147 *CARDIOLIPIN AB",
+            "price": "21.71"
+        },
+        {
+            "cptCode": "86738",
+            "description": "86738 *MYCOPLASMA AB TITER",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "82384",
+            "description": "82384 *CATECHOLAMINE-URINE FRC",
+            "price": "32.24"
+        },
+        {
+            "cptCode": "86162",
+            "description": "86162 *CH 50 COMPLEMENT",
+            "price": "13.82"
+        },
+        {
+            "cptCode": "83919",
+            "description": "83919 *ORGANIC ACID SCREEN",
+            "price": "67.12"
+        },
+        {
+            "cptCode": "87110",
+            "description": "87110 *CHLAMYDIA CULTURE",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "83970",
+            "description": "83970 *PTH N-TERMINAL",
+            "price": "27.97"
+        },
+        {
+            "cptCode": "82175",
+            "description": "82175 *ARSENIC (BLOOD)",
+            "price": "23.69"
+        },
+        {
+            "cptCode": "86317",
+            "description": "86317 *CHLAMYDIAZYME",
+            "price": "10.20"
+        },
+        {
+            "cptCode": "83051",
+            "description": "83051 *PLASMA HEMOGLOBIN",
+            "price": "18.42"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *COLO TICK FEVER AB",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *PARAINFLUENZA AB",
+            "price": "40.14"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *PARAINFLUENZA VIRUS 1AB",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *PARAINFLUENZA VIR 2 AB",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86790",
+            "description": "86790 *PARAINFLUENZA VIR 3 ABS",
+            "price": "8.55"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255 *PARANEOPLASTIC SYNDROME",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255 *PARANEOPLASTIC SYN CHG2",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "86255",
+            "description": "86255 *PARANEOPLASTIC SYN CHG3",
+            "price": "18.75"
+        },
+        {
+            "cptCode": "83520",
+            "description": "83520 *NEUROMYELITIS OPTICA",
+            "price": "85.99"
+        },
+        {
+            "cptCode": "82175",
+            "description": "82175 *ARSENIC (URINE)",
+            "price": "19.41"
+        },
+        {
+            "cptCode": "82530",
+            "description": "82530 *CORTISOL,FREE (URINE)",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "84144",
+            "description": "84144 *PROGESTERONE",
+            "price": "16.12"
+        },
+        {
+            "cptCode": "83655",
+            "description": "83655 *LEAD (URINE)",
+            "price": "10.53"
+        },
+        {
+            "cptCode": "83825",
+            "description": "83825 *MERCURY (URINE)",
+            "price": "19.41"
+        },
+        {
+            "cptCode": "84153",
+            "description": "84153 PSA DIAGNOSTIC",
+            "price": "78.63"
+        },
+        {
+            "cptCode": "87255",
+            "description": "87255 *HERPES SIMPLEX CULTURE",
+            "price": "22.70"
+        },
+        {
+            "cptCode": "87255",
+            "description": "87255 *HERPES SIMPLEX VIRUS CU",
+            "price": "20.40"
+        },
+        {
+            "cptCode": "86644",
+            "description": "86644 *CYTOMEGALOVIRUS TITER",
+            "price": "17.77"
+        },
+        {
+            "cptCode": "84210",
+            "description": "84210 *PYRUVATE",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "83020",
+            "description": "83020 *HEMOGLOBIN A2",
+            "price": "14.15"
+        },
+        {
+            "cptCode": "86638",
+            "description": "86638 *Q FEVER AB",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86787",
+            "description": "86787 *HERPES ZOSTER AB",
+            "price": "13.49"
+        },
+        {
+            "cptCode": "82627",
+            "description": "82627 *DHEA-S",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "86756",
+            "description": "86756 *RESP SYNCYTIAL VIRUS AB",
+            "price": "11.84"
+        },
+        {
+            "cptCode": "87425",
+            "description": "87425 *ROTOVIRUS ANTIGEN",
+            "price": "21.71"
+        },
+        {
+            "cptCode": "86765",
+            "description": "86765 *RUBEOLA AB",
+            "price": "13.16"
+        },
+        {
+            "cptCode": "82672",
+            "description": "82672 *ESTROGEN",
+            "price": "24.68"
+        },
+        {
+            "cptCode": "84260",
+            "description": "84260 *SEROTONIN (BLOOD)",
+            "price": "35.53"
+        },
+        {
+            "cptCode": "86777",
+            "description": "86777 *TOXOPLASMA AB",
+            "price": "15.79"
+        },
+        {
+            "cptCode": "82747",
+            "description": "82747 *FOLIC ACID-RBC",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "84305",
+            "description": "84305 *SOMATOMEDIN C",
+            "price": "20.73"
+        },
+        {
+            "cptCode": "83080",
+            "description": "83080*HEXOSAMINIDASE A & TOTAL",
+            "price": "44.09"
+        },
+        {
+            "cptCode": "83080",
+            "description": "83080 HEXOSAMINIDASE A FRACT",
+            "price": "42.11"
+        },
+        {
+            "cptCode": "82261",
+            "description": "82261* BIOTINIDASE",
+            "price": "25.99"
+        },
+        {
+            "cptCode": "83080",
+            "description": "83080 HEXOSAMINIDASE TOTAL",
+            "price": "42.11"
+        },
+        {
+            "cptCode": "86644",
+            "description": "86644 *CMV ANTIBODY",
+            "price": "30.93"
+        },
+        {
+            "cptCode": "86063",
+            "description": "86063 *STREPTOZYME",
+            "price": "9.87"
+        },
+        {
+            "cptCode": "86658",
+            "description": "86658 *ECHOVIRUS ANTIBODY",
+            "price": "27.64"
+        },
+        {
+            "cptCode": "84480",
+            "description": "84480 *T3 RIA",
+            "price": "15.13"
+        },
+        {
+            "cptCode": "80355",
+            "description": "80335*/G0480 1-2TRICYC ANTIDEP",
+            "price": "58.23"
+        },
+        {
+            "cptCode": "84430",
+            "description": "84430 *THIOCYANATE",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "84432",
+            "description": "84432 *THYROGLOBULIN QUANT",
+            "price": "32.90"
+        },
+        {
+            "cptCode": "86606",
+            "description": "86606 *ASPERGILLUS ANTIBODY",
+            "price": "11.19"
+        },
+        {
+            "cptCode": "84586",
+            "description": "84586 *VASOACT.INTEST.POLYPEP.",
+            "price": "41.78"
+        },
+        {
+            "cptCode": "86612",
+            "description": "86612 *BLASTOMYCES ANTIBODY",
+            "price": "14.48"
+        },
+        {
+            "cptCode": "82180",
+            "description": "82180 *VITAMIN C",
+            "price": "12.50"
+        },
+        {
+            "cptCode": "87149",
+            "description": "87149 *COCCIDIODES AB",
+            "price": "18.10"
+        },
+        {
+            "cptCode": "82306",
+            "description": "82306 *VITAMIN D(25 HYDROXY)I",
+            "price": "82.25"
+        },
+        {
+            "cptCode": "86698",
+            "description": "86698 *HISTOPLASMA AB MYCELIA",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "86698",
+            "description": "86698 *HISTOPLASMA AB YEAST",
+            "price": "11.52"
+        },
+        {
+            "cptCode": "82652",
+            "description": "82652 *VITAMIN D-1,25 DIHYDROX",
+            "price": "35.86"
+        },
+        {
+            "cptCode": "80173",
+            "description": "80173 *HALDOL LEVEL",
+            "price": "17.11"
+        },
+        {
+            "cptCode": "84446",
+            "description": "84446 *VITAMIN E",
+            "price": "9.54"
+        },
+        {
+            "cptCode": "83015",
+            "description": "83015 *HEAVY METAL SCR.(BLOOD)",
+            "price": "25.66"
+        },
+        {
+            "cptCode": "86762",
+            "description": "86762 *RUBELLA ANTIBODY IGG",
+            "price": "7.24"
+        },
+        {
+            "cptCode": "82552",
+            "description": "82552 * CK ELECTROPHORESIS",
+            "price": "8.88"
+        },
+        {
+            "cptCode": "82553",
+            "description": "82553 CPK-MB",
+            "price": "189.50"
+        },
+        {
+            "cptCode": "83625",
+            "description": "83625 * LDH  ISOENZYMES",
+            "price": "8.39"
+        },
+        {
+            "cptCode": "83615",
+            "description": "83615 *LDH TOTAL",
+            "price": "8.39"
+        },
+        {
+            "cptCode": "84165",
+            "description": "84165 PROTEIN ELECTROPHORESIS",
+            "price": "81.26"
+        },
+        {
+            "cptCode": "84163",
+            "description": "84163 *PAPP-A",
+            "price": "23.03"
+        },
+        {
+            "cptCode": "82784",
+            "description": "82784 IGA",
+            "price": "100.67"
+        },
+        {
+            "cptCode": "82784",
+            "description": "82784 IGG",
+            "price": "100.67"
+        },
+        {
+            "cptCode": "82784",
+            "description": "82784 IGM",
+            "price": "100.67"
+        },
+        {
+            "cptCode": "84080",
+            "description": "84080 *ALK PHOS ISOENZYMES",
+            "price": "16.45"
+        },
+        {
+            "cptCode": "86060",
+            "description": "86060 ASO TITER",
+            "price": "148.05"
+        },
+        {
+            "cptCode": "86431",
+            "description": "86431 RHEUMATOID FACTOR",
+            "price": "63.50"
+        },
+        {
+            "cptCode": "86480",
+            "description": "86480 *QUANTIFERON TB GOLD",
+            "price": "77.97"
+        },
+        {
+            "cptCode": "86140",
+            "description": "86140 C-REACTIVE PROTEIN",
+            "price": "77.64"
+        },
+        {
+            "cptCode": "86622",
+            "description": "86622 *BRUCELLA AB",
+            "price": "35.53"
+        },
+        {
+            "cptCode": "86720",
+            "description": "86720 *LEPTOSPIRA AB",
+            "price": "6.58"
+        },
+        {
+            "cptCode": "86653",
+            "description": "** ST LOUIS ENCEPHALITIS IGM",
+            "price": "6.42"
+        },
+        {
+            "cptCode": "97110",
+            "description": "THERAPEUTIC EXERCISES",
+            "price": "913.26"
+        },
+        {
+            "cptCode": "93306",
+            "description": "TTE W/DOPPLER COMPLETE",
+            "price": "1981.86"
+        },
+        {
+            "cptCode": "93320",
+            "description": "DOPPLER ECHO EXAM HEART",
+            "price": "2237.69"
+        },
+        {
+            "cptCode": "93005",
+            "description": "ELECTROCARDIOGRAM TRACING",
+            "price": "697.58"
+        },
+        {
+            "cptCode": "96372",
+            "description": "THER/PROPH/DIAG INJ SC/IM",
+            "price": "933.46"
+        },
+        {
+            "cptCode": "95811",
+            "description": "POLYSOM 6/>YRS CPAP 4/> PARM",
+            "price": "1477.61"
+        },
+        {
+            "cptCode": "94060",
+            "description": "EVALUATION OF WHEEZING",
+            "price": "840.30"
+        },
+        {
+            "cptCode": "95810",
+            "description": "POLYSOM 6/> YRS 4/> PARAM",
+            "price": "1400.04"
+        },
+        {
+            "cptCode": "93798",
+            "description": "CARDIAC REHAB/MONITOR",
+            "price": "1310.75"
+        },
+        {
+            "cptCode": "93971",
+            "description": "EXTREMITY STUDY",
+            "price": "1269.45"
+        },
+        {
+            "cptCode": "95819",
+            "description": "EEG AWAKE AND ASLEEP",
+            "price": "1004.50"
+        },
+        {
+            "cptCode": "93225",
+            "description": "ECG MONIT/REPRT UP TO 48 HRS",
+            "price": "513.50"
+        },
+        {
+            "cptCode": "94640",
+            "description": "AIRWAY INHALATION TREATMENT",
+            "price": "1101.29"
+        },
+        {
+            "cptCode": "97162",
+            "description": "PT EVAL MOD COMPLEX 30 MIN",
+            "price": "603.06"
+        },
+        {
+            "cptCode": "97113",
+            "description": "AQUATIC THERAPY/EXERCISES",
+            "price": "752.62"
+        },
+        {
+            "cptCode": "97140",
+            "description": "MANUAL THERAPY 1/> REGIONS",
+            "price": "953.82"
+        },
+        {
+            "cptCode": "96374",
+            "description": "THER/PROPH/DIAG INJ IV PUSH",
+            "price": "1648.38"
+        },
+        {
+            "cptCode": "93017",
+            "description": "CARDIOVASCULAR STRESS TEST",
+            "price": "1075.38"
+        },
+        {
+            "cptCode": "90471",
+            "description": "IMMUNIZATION ADMIN",
+            "price": "678.12"
+        },
+        {
+            "cptCode": "97014",
+            "description": "ELECTRIC STIMULATION THERAPY",
+            "price": "1004.81"
+        },
+        {
+            "cptCode": "96361",
+            "description": "HYDRATE IV INFUSION ADD-ON",
+            "price": "1683.83"
+        },
+        {
+            "cptCode": "93270",
+            "description": "REMOTE 30 DAY ECG REV/REPORT",
+            "price": "307.53"
+        },
+        {
+            "cptCode": "95806",
+            "description": "SLEEP STUDY UNATT&RESP EFFT",
+            "price": "232.31"
+        },
+        {
+            "cptCode": "93880",
+            "description": "EXTRACRANIAL BILAT STUDY",
+            "price": "1216.36"
+        },
+        {
+            "cptCode": "95886",
+            "description": "MUSC TEST DONE W/N TEST COMP",
+            "price": "442.61"
+        },
+        {
+            "cptCode": "93922",
+            "description": "UPR/L XTREMITY ART 2 LEVELS",
+            "price": "371.29"
+        },
+        {
+            "cptCode": "97035",
+            "description": "ULTRASOUND THERAPY",
+            "price": "919.96"
+        },
+        {
+            "cptCode": "97112",
+            "description": "NEUROMUSCULAR REEDUCATION",
+            "price": "1002.43"
+        },
+        {
+            "cptCode": "93351",
+            "description": "STRESS TTE COMPLETE",
+            "price": "1662.71"
+        },
+        {
+            "cptCode": "94762",
+            "description": "MEASURE BLOOD OXYGEN LEVEL",
+            "price": "57.87"
+        },
+        {
+            "cptCode": "97161",
+            "description": "PT EVAL LOW COMPLEX 20 MIN",
+            "price": "480.99"
+        },
+        {
+            "cptCode": "96365",
+            "description": "THER/PROPH/DIAG IV INF INIT",
+            "price": "2610.07"
+        },
+        {
+            "cptCode": "97802",
+            "description": "MEDICAL NUTRITION INDIV IN",
+            "price": "134.63"
+        },
+        {
+            "cptCode": "97605",
+            "description": "NEG PRESS WOUND TX <=50 CM",
+            "price": "106.74"
+        },
+        {
+            "cptCode": "93308",
+            "description": "TTE F-UP OR LMTD",
+            "price": "696.31"
+        },
+        {
+            "cptCode": "96413",
+            "description": "CHEMO IV INFUSION 1 HR",
+            "price": "7149.21"
+        },
+        {
+            "cptCode": "97163",
+            "description": "PT EVAL HIGH COMPLEX 45 MIN",
+            "price": "792.00"
+        },
+        {
+            "cptCode": "93970",
+            "description": "EXTREMITY STUDY",
+            "price": "1502.20"
+        },
+        {
+            "cptCode": "97530",
+            "description": "THERAPEUTIC ACTIVITIES",
+            "price": "572.40"
+        },
+        {
+            "cptCode": "96375",
+            "description": "TX/PRO/DX INJ NEW DRUG ADDON",
+            "price": "8106.89"
+        },
+        {
+            "cptCode": "95910",
+            "description": "NRV CNDJ TEST 7-8 STUDIES",
+            "price": "405.45"
+        },
+        {
+            "cptCode": "95250",
+            "description": "CONT GLUC MNTR PHYS/QHP EQP",
+            "price": "240.69"
+        },
+        {
+            "cptCode": "93312",
+            "description": "ECHO TRANSESOPHAGEAL",
+            "price": "2268.88"
+        },
+        {
+            "cptCode": "97001",
+            "description": "PT EVALUATION",
+            "price": "787.00"
+        },
+        {
+            "cptCode": "93975",
+            "description": "VASCULAR STUDY",
+            "price": "896.89"
+        },
+        {
+            "cptCode": "95908",
+            "description": "NRV CNDJ TST 3-4 STUDIES",
+            "price": "334.57"
+        },
+        {
+            "cptCode": "95953",
+            "description": "EEG MONITORING/COMPUTER",
+            "price": "2513.89"
+        },
+        {
+            "cptCode": "97597",
+            "description": "RMVL DEVITAL TIS 20 CM/<",
+            "price": "384.13"
+        },
+        {
+            "cptCode": "95992",
+            "description": "CANALITH REPOSITIONING PROC",
+            "price": "534.57"
+        },
+        {
+            "cptCode": "94070",
+            "description": "EVALUATION OF WHEEZING",
+            "price": "528.25"
+        },
+        {
+            "cptCode": "96360",
+            "description": "HYDRATION IV INFUSION INIT",
+            "price": "1412.27"
+        },
+        {
+            "cptCode": "93660",
+            "description": "TILT TABLE EVALUATION",
+            "price": "911.59"
+        },
+        {
+            "cptCode": "97799",
+            "description": "PHYSICAL MEDICINE PROCEDURE",
+            "price": "398.51"
+        },
+        {
+            "cptCode": "92507",
+            "description": "SPEECH/HEARING THERAPY",
+            "price": "1699.40"
+        },
+        {
+            "cptCode": "97032",
+            "description": "ELECTRICAL STIMULATION",
+            "price": "1013.15"
+        },
+        {
+            "cptCode": "97164",
+            "description": "PT RE-EVAL EST PLAN CARE",
+            "price": "569.45"
+        },
+        {
+            "cptCode": "97606",
+            "description": "NEG PRESS WOUND TX >50 CM",
+            "price": "119.82"
+        },
+        {
+            "cptCode": "93303",
+            "description": "ECHO TRANSTHORACIC",
+            "price": "1927.15"
+        },
+        {
+            "cptCode": "93923",
+            "description": "UPR/LXTR ART STDY 3+ LVLS",
+            "price": "952.72"
+        },
+        {
+            "cptCode": "91010",
+            "description": "ESOPHAGUS MOTILITY STUDY",
+            "price": "1680.22"
+        },
+        {
+            "cptCode": "93926",
+            "description": "LOWER EXTREMITY STUDY",
+            "price": "842.76"
+        },
+        {
+            "cptCode": "93925",
+            "description": "LOWER EXTREMITY STUDY",
+            "price": "610.32"
+        },
+        {
+            "cptCode": "90375",
+            "description": "RABIES IG IM/SC",
+            "price": "5825.21"
+        },
+        {
+            "cptCode": "90853",
+            "description": "GROUP PSYCHOTHERAPY",
+            "price": "167.00"
+        },
+        {
+            "cptCode": "97018",
+            "description": "PARAFFIN BATH THERAPY",
+            "price": "1033.57"
+        },
+        {
+            "cptCode": "97165",
+            "description": "OT EVAL LOW COMPLEX 30 MIN",
+            "price": "638.28"
+        },
+        {
+            "cptCode": "90715",
+            "description": "TDAP VACCINE 7 YRS/> IM",
+            "price": "737.97"
+        },
+        {
+            "cptCode": "96523",
+            "description": "IRRIG DRUG DELIVERY DEVICE",
+            "price": "48.43"
+        },
+        {
+            "cptCode": "97166",
+            "description": "OT EVAL MOD COMPLEX 45 MIN",
+            "price": "688.25"
+        },
+        {
+            "cptCode": "94010",
+            "description": "BREATHING CAPACITY TEST",
+            "price": "522.81"
+        },
+        {
+            "cptCode": "97116",
+            "description": "GAIT TRAINING THERAPY",
+            "price": "858.17"
+        },
+        {
+            "cptCode": "91110",
+            "description": "GI TRACT CAPSULE ENDOSCOPY",
+            "price": "1817.65"
+        }
+    ]
+}

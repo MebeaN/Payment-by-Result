@@ -1,0 +1,73 @@
+name: frontend
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter_driver:
+    sdk: flutter
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_route: ^2.3.0
+  dartz: ^0.10.0
+  flutter_bloc: ^7.2.0
+  flutter_hooks: ^0.18.0
+  flutter_slidable: ^0.6.0
+  freezed_annotation: ^0.14.2
+  get_it: ^7.2.0
+  implicitly_animated_reorderable_list: ^0.4.1
+  injectable: ^1.0.4
+  json_annotation: ^4.0.1
+  kt_dart: ^0.9.1
+  provider: ^6.0.0
+  rxdart: ^0.27.2
+  uuid: ^3.0.4
+  logger: ^1.1.0
+  http: ^0.13.3
+  intl: ^0.17.0
+  flutter_secure_storage: ^4.2.1
+  another_flushbar: ^1.10.24
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  auto_route_generator: ^2.1.0
+  build_runner: ^2.1.1
+  mockito: ^5.0.15
+  freezed: ^0.14.2
+  injectable_generator: ^1.0.4
+  json_serializable: ^4.1.4
+  lint: ^1.2.0
+  test: ^1.16.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter-Thin.ttf
+          weight: 100
+        - asset: fonts/Inter-ExtraLight.ttf
+          weight: 200
+        - asset: fonts/Inter-Light.ttf
+          weight: 300
+        - asset: fonts/Inter-Regular.ttf
+        - asset: fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: fonts/Inter-Bold.ttf
+          weight: 700
+        - asset: fonts/Inter-ExtraBold.ttf
+          weight: 800
+        - asset: fonts/Inter-Black.ttf
+          weight: 900
