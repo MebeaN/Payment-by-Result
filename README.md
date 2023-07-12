@@ -18,11 +18,3 @@ The app we build will have two types of users, patient and doctor.
 6. Mange account (update basic info such as password and contact info)  -> for both
 7. Calculate payment based on doctor notes -> done on the backend
 
-## Group Members 
-
-- Bemnet Abrham &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ATE/5129/09
-- Eyob Alemu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ATR/5955/11
-- Keiredin Aman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ATR/6533/11
-- Mebea Nibret &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ATR/1503/11
-- Taklemariam Alazar &nbsp;&nbsp;&nbsp;&nbsp; ATR/3073/11
-
